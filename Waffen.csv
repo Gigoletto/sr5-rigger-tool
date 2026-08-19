@@ -1,0 +1,252 @@
+Name;Typ;Präzision;Schaden;DK;Reichw./Modus;RK;Munition;Fundstelle;Zubehör
+AK-97;Sturmgewehre;5;10K;-2;HM/SM/AM;-;38(s);Regelwerk;
+AK-98;Sturmgewehre;5;10K;-2;HM/SM/AM;-;38(s);Kreuzfeuer;
+AK-98 - Granatwerfer;Sturmgewehre;3;Granate;Granate;EM;-;6(m);-;
+Altmayr Blackmoon;Schwere Pistolen;6;8K;-1;HM;1;6(tr);SotA ADL;elektr. Feuern, Montageschiene (oben)
+Altmayr SPX;Schrotflinten;4;10K;-1;EM;-;8(m);Schattenhb. 1;Tarnmod.+4, RW: schwere Pistole
+Altmayr SPX 2;Schrotflinten;4;10K;-1;EM/HM;-;8(m);SotA ADL;Tarnmod.+2, RW: schwere Pistole
+Aquadyne Shark-XS Harpun.;Projektilwaffen (Armbrüste, Harpunengewehre);5;9K;-2;EM;;5(m);Kreuzfeuer;RW: l. Armbrust unter Wasser, s.Pistole über Wasser
+Arctic Warfare Mod. 64;Scharfschützengewehre;7;14K;-6;EM;-2;5(s);Gruppe;Zweibein, Zielfernroht, zerlegbar
+Ares Alpha;Sturmgewehre;5(7);11K;-2;HM/SM/AM;2;42(s);Regelwerk;int. Rückstoßkomp.-2, SM
+Ares Alpha - Granatwerfer;Sturmgewehre;4(6);Granate;Granate;EM;-;6(s);-;
+Ares Antioch-2;Granat-/Torpedowerfer;4 (6);Granate;Granate;EM;-;8(m);Regelwerk;SM
+Ares Archon schwerer Laser;Laserwaffen (Exot. Fernkampf, KF S.47);7;10K;-10;HM;-;externe Quelle;Kreuzfeuer;1 Schuß = 4 Energieeinheiten, RW: Scharfschützeng.
+Ares Armatus;Laserwaffen (Exot. Fernkampf, KF S.47);6;6K;-5;HM;-;10(s) o. Ext.;Harte Ziele;1 Schuß = 1 Energieeinheit, RW und Streuung wie Schrotflinten
+Ares Crusader II;Automatikpistolen;5 (7);7K;-;HM/SM;2;40(s);Regelwerk;Gasventil-2, SM
+Ares Desert Strike;Scharfschützengewehre;7;13K;-4;HM;1;14(s);Regelwerk;Schockploster,, Zielfernrohr (Vergr.)
+Ares Executer;Maschinenpistole;4;7K;-;HM/SM/AM;-1;30(s);Kreuzfeuer;auskl. Schulterstütze, int. Schalldämpfer
+Ares Giantslayer Zwille;Projektilwaffen (Bögen, Zwillen);7;2K;-;EM;;;Kreuzfeuer;Fertigkeit: Projektilwaffen, RW: Shuriken, Regeln: S. 23
+Ares HVAR;Sturmgewehre;5 (7);8K;-;HM/SM/AM;3 (4);50(s);Kreuzfeuer;Schockpolster, int. Rückstoßk..-3, SM,  Regeln: S. 37
+Ares Lancer MP-Laser;Laserwaffen (Exot. Fernkamof, KF S.47);7;7K;-10;HM;-;2 x 10(s) o. Ext.;Kreuzfeuer;1 Schuß = 2 Energieeinheiten, RW: Sturmgewehre
+Ares Light Fire 70;Leichte Pistolen;7;6K;-;HM;-;16(s);Regelwerk;Schalldämpfer (Würfelmod. -5), kostet 750,-
+Ares Light Fire 75;Leichte Pistolen;6 (8);6K;-;HM;-;16(s);Regelwerk;int. Schalldämpfer (Würfelmod.-5), SM
+Ares Predator V;Schwere Pistolen;5 (7);8K;-1;HM;-;15(s);Regelwerk;SM
+Ares Redline Laserpistole;Laserwaffen (Exot. Fernkamof, KF S.47);9;5K;-10;HM;-;10(s) o. Ext.;Kreuzfeuer;1 Schuß = 1 Energieeinheit, RW: MP
+Ares Sigma;Maschinenpistole;4 (6);8K;-;HM/SM/AM;-2;50(t);Schattenhb. 1;ausz. Schulterstütze, Vordergriff, SM, 2 Montagesch.
+Ares Stalwart;Sturmgewehre (Karabiner, RW MP, Tarn +4);5;9K;-2;HM/SM/AM;-1;36(s);tödl. Schatten;auskl. Schulterstütze
+Ares Striker;Schwere Pistolen;5;8K;-1;HM;-;12(s);tödl. Schatten;ohne WiFi-Fähigkeit
+Ares Thunderstruck Gaussg.;Sturmkanonen;7 (8);15K;-8;HM;1;10(s) + Energie;Kreuzfeuer;Schockpolster, LM,  Regeln: S. 45
+Ares Vigorous;Sturmkanonen;4;16K;-6;EM;-;12(s);Kreuzfeuer;
+Ares Viper Slivergun;Schwere Pistolen;4;9K(f);4;HM/SM;-;30(s);Regelwerk;int. Schalldämpfer
+ArmTech MGL-12;Granat-/Torpedowerfer;4;Granate;Granate;HM;-;12(s);Regelwerk;
+Auto Assault 16;Schrotflinten;4;13K;-1;HM/SM/AM;2;10(s) o. 32(t);Kreuzfeuer;int. Rückstoßkomp.-2
+Aztechnology Striker;Raketenwerfer;5;Rakete;Rakete;EM;-;1(v);Regelwerk;
+Barrens Special;Schwere Pistolen;4;8K;-1;EM;-;5(tr);tödl. Schatten;Unterlaufbajonett
+Barret Modell 122;Scharfschützengewehre;7 (9);14K;-6;HM;-2;14(s);Kreuzfeuer;Zweibein, SM, Schalldämpfer
+Beretta 201T;Leichte Pistolen;6;6K;-;HM/SM;-1;21(s);Regelwerk;abn. Schulterstütze
+Beretta Mod. 59;Scharfschützengewehre;5 (6);10K;-2;HM;-1;10(s);Gruppe;hologr.Visier, auskl. Schulterstütze, verkürzter Lauf, Schalldämpfer
+Beretta Northstar;Schrotflinten;4 (6);11K;-1;HM;-;2 x 6(m);tödl. Schatten;SM, zusätzl. Internes Magazin
+Bogen;Projektilwaffen (Bögen, Zwillen);6;(Stufe+2)K;-(St.:4);;;;Regelwerk;
+Browning Ghost;Leichte Pistolen;5 (7);6K;-;HM;1;10(s);tödl. Schatten;SM, angepasster Griff, elektr. Feuern, Keine weiteren Modifikationen, Regeln: S. 27
+Browning Phantom;Schwere Pistolen;4 (6);8K;-1;HM;1;12(s);tödl. Schatten;SM, angepasster Griff, elektr. Feuern, keine weiteren Modifikationen, Regeln: S. 30
+Browning Ultra Power;Schwere Pistolen;5 (6);8K;-1;HM;-;10(s);Regelwerk;LM
+Cavalier Arms Adder Slivergun;Leichte Pistolen;5;8K(f);5;HM;-;20(s);Harte Ziele;
+Cavalier Arms Crockett EBR;Scharfschützengewehre;6 (7);12K;-3;HM/SM;1;20(s);Regelwerk;Schockploster,, Zielfernrohr (Vergr.)
+Cavalier Arms Evanator;Automatikpistolen;5 (6);6K;-;SM/AM;1 (2);20(s);Schattenhb. 1;auskl. Schulterstütze, elektr. Feuern, LM
+Cavalier Arms Falchion;Schrotflinten;5 (7);12K;-1;EM;-;8(m);Schattenhb. 1;ausg.Abzug, SM, Nahkampfverstärkung, verb.Sicherh.
+Cavalier Arms Gladius;Maschinenpistole;3 (4);7K;-;SM/AM;1(2);32(s);Schattenhb. 1;auskl. Schulterstütze, int. Rückstoßkomp.-1, LM
+Cavalier Champion;Schwere Pistolen;6;10K;-2;EM;-;1(k);tödl. Schatten;verläng.Lauf,  RW: MP,  Nachladen = einfache Handl.
+Cavalier Deputy;Schwere Pistolen;6;7K;-1;HM;-;7(tr);Kreuzfeuer;
+Cavalier Flash;Automatikpistolen;4 (6);7K;-;HM/SM;-;24(s);tödl. Schatten;SM, zusammenklappbar,  Regeln: S. 35
+Cavalier Thunderstruck;Schwere Pistolen;5 (7);8K;-1;SM;3;12(s);tödl. Schatten;SM, Gasventil-2, int. Rückstoßkomp.-1, doppelter Malus für nichtkompensierten Rückstoß
+Ceska Black Scorpion;Automatikpistolen;5;6K;-;HM/SM;-1;35(s);Regelwerk;auskl. Schulterstütze
+Colt Agent Special;Leichte Pistolen;5;8K;-;HM;-;8(s);Schattenhb. 1;RW: Taser,  Muni: für schwere Pistolen
+Colt America L36;Leichte Pistolen;7;7K;-;HM;-;11(s);Regelwerk;
+Colt Cobra Tz-120;Maschinenpistole;4 (5);7K;-;HM/SM/AM;2(3);32(s);Regelwerk;auskl. Schulterstütze, Gasventil-2, LM
+Colt Coral Snake;Leichte Pistolen;5 (6);7K;-1;EM;-;5(tr);tödl. Schatten;LM, RW: schwere Pistole
+Colt Future Frontier;Schwere Pistolen;5;8K;-1;EM;-;7(tr);Schattenhb. 1;Nahkampfverstärkung
+Colt Government 2066;Schwere Pistolen;6;7K;-1;HM;-;14(s);Regelwerk;
+Colt Inception;Sturmgewehre;7 (8);10K;-1;HM/SM;1 (3);35(s);Schattenhb. 1;elektr. Feuern, Zweibein, LM, Nahkampfverstärkung
+Colt M23;Sturmgewehre;4;9K;-2;HM/SM/AM;-;40(s);Regelwerk;
+Colt M23A2;Sturmgewehre (Karabiner, RW MP, Tarn +4);5 (7);9K;-2;HM/SM/AM;1;40(s);tödl. Schatten;SM, int. Rückstoßkomp.-1, verb. Entfernungsmesser, Takt. Lampe (RV), Montageschiene (Unterlauf)
+Colt Manhunter;Schwere Pistolen;5 (6);8K;-1;HM;-;16(s);Harte Ziele;holographisches Visier
+Colt New Model Revolver;Holdout-Pistolen;6;5K;-;HM;-;5(tr);Schattenhb. 1;
+Cyberimplantat-Automatikpist.;Automatikpistolen;4 (6);6K;-;HM/SM;1;18(m) o. 32(s);Regelwerk;int. Rückstoßkomp.-1, SM, nichtmet.,  Regeln: S. 463
+Cyberimplantat-Fingerpistole;Holdout-Pistolen;3 (5);6K;-;HM;-;1(v);Bodyshop;SM, nichtmetallisch,  Regeln: Regelwerk S. 463
+Cyberimplantat-Granatwerfer;Granat-/Torpedowerfer;4 (6);Granate;Granate;EM;-;2(m) o. 6(s);Regelwerk;SM, nichtmetallisch,  Regeln: S. 463
+Cyberimplantat-Holdout;Holdout-Pistolen;4 (6);6K;-;HM;-;2m o. 6(s);Regelwerk;SM, nichtmetallisch,  Regeln: S. 463
+Cyberimplantat-leichte Pistole;Leichte Pistolen;6 (8);7K;-;HM;.;10(m) o. 15(s);Regelwerk;SM, nichtmetallisch,  Regeln: S. 463
+Cyberimplantat-MP;Maschinenpistole;4 (6);7K;-;HM/SM;2;18(m) o. 32(s);Regelwerk;int. Rückstoßkomp.-2, SM, nichtmet.,  Regeln: S. 463
+Cyberimplantat-Schrotflinte;Schrotflinten;4 (6);10K;-1;EM;-;4(m) o. 10(s);Regelwerk;SM, nichtmetallisch,  Regeln: S. 463
+Cyberimplantat-schw. Pistole;Schwere Pistolen;4 (6);7K;-1;HM;-;8(m) o. 12(s);Regelwerk;SM, nichtmetallisch,  Regeln: S. 463
+Defiance T 250 Kurzlauf;Schrotflinten;4;9K;-1;EM/HM;-;5(m);Regelwerk;Tarnmod.+4, RW: schwere Pistole, kurze Salve mögl.
+Defiance T-250;Schrotflinten;4;10K;-1;EM/HM;-;5(m);Regelwerk;Tarnmod.+4, RW: schwere Pistole
+Dynamisch. Compoundbogen;Projektilwaffen (Bögen, Zwillen);5;(Stufe+2)K;-(St.:4);;;;Harte Ziele;Stufe 1 bis 10 mit einfacher Handlung festlegen
+Enfield AS-7;Schrotflinten;4 (5);13K;-1;HM/SM;-;10(s) o. 24(t);Regelwerk;LM
+Enterhakenkanone;Projektilwaffen (Armbrüste, Harpunengewehre);3;7G;-2;EM;;1(v);Regelwerk;RW: l. Armbrust,  Regeln: S. 454
+Esprit Tsunami;Maschinenpistole;4 (6);7K;-;SM/AM;-;40(s);tödl. Schatten;SM, Freund-/Feind-Erkennungssystem (Basis)
+Fianchetti Military 100;Automatikpistolen;5 (7);6K;-;HM/SM/AM;-;20(s);Schattenhb. 1;SM
+Fichetti Executive Action;Leichte Pistolen;6;7K;-;HM/SM*;-;18(s);Kreuzfeuer;Salvenmodus = komplexe Handlung
+Fichetti Security 600;Leichte Pistolen;6 (7);7K;-;HM;-1;30(s);Regelwerk;abn. Schulterstütze, LM
+Fichetti Tiffani Needler;Holdout-Pistolen;5;8K(f);5;HM;-;4(s);Regelwerk;
+Fichetti Tiffani Self-Defender;Holdout-Pistolen;4;6K;-;EM;-;4(s);Kreuzfeuer;
+FN HAR;Sturmgewehre;5 (6);10K;-2;HM/SM/AM;2;35(s);Regelwerk;Gasventil-2, LM
+FN MAG-5 - MMG;Mittleres Maschinengewehr;4 (5);11K;-3;AM;2 (8);50(s) o. Gurt;Kreuzfeuer;Gasventil-2, Dreibein, LM
+FN P83 Praetor;Maschinenpistole;6;8K;-;HM/SM/AM;1(2);50(s);Regelwerk;feste Schulterstütze, int. Rückstoßkomp.-1, Lampe
+FN-AAL Gyrojetpistole;Schwere Pistolen;5;10K;-2;HM;-;10(s);Kreuzfeuer;verwendet Miniaturraketen,  Regeln: S. 27
+Franchi SPAS-24;Schrotflinten;4 (6);12K;-1;HM/SM;1;10(s);Kreuzfeuer;Schockpolster, SM
+GE Vinidicator Minigun – LMG;Leichtes Maschinengewehr;4 (6);9K;-4;AM;2;100/200(gurt);Kreuzfeuer;int. Rückstoßkomp.-2, SM, Regeln: S. 42
+Glock 18 ST;Automatikpistolen;5 (7);6K;-;HM/SM/AM;1 (2);15 o. 30(s);Gruppe;SM, elektr. Feuern, ausziehb. Schulterstütze
+Glock 51;Automatikpistolen;5 (6);7K;-;HM/SM/AM;-;28(s);SotA ADL;LM, Keramik-/Plaststahlkomp.-2
+Glock MP Custodes;Maschinenpistole;5;7K;-;HM/SM/AM;1(2);24(s);SotA ADL;entf. Schulterstütze, Gasventil-1, Tragegurt, Keramik-/Plaststahlkkomp.-2
+Glock Swarowski Adlerauge;Schwere Pistolen;6 (8);7K;-1;HM;-;12(s);SotA ADL;SM, verb. Entfernungsmesser, verl. Lauf
+Hämmerli 620S;Leichte Pistolen;5 (7);6K;-;HM;1;6(s);Tricks&Finesse;Gasventil-1, SM, RW: schwere Pistole
+Hämmerli Gemini;Schwere Pistolen;5;7K;-3;speziell;-;2 x 8(s);tödl. Schatten;persönlicher Stil,  Regeln: S. 31
+Harpunengewehr;Projektilwaffen (Armbrüste, Harpunengewehre);5;9K;-2;EM;;1(v);Kreuzfeuer;RW: l. Armbrust unter Wasser, s.Pistole über Wasser
+HK 82A1;Granat-/Torpedowerfer;3;Granate;Granate;EM;-1;1(k);tödl. Schatten;auskl. Schulterstütze, RW-Regeln: S. 42
+HK DMR 11D;Scharfschützengewehre;6/4*;11K;-3;HM/SM;-2;30(s);SotA ADL;Zweibein, Zielfern., Montageschiene (oben), Präz. 4 bei Salvenmodus
+HK G12A4;Sturmgewehre;6 (8);9K;-2;HM/SM/AM;3(4);32(s);SotA ADL;SM, Gasventil-2, Vordergriff, auskl.. Schulterstütze, 4 Montageschienen, Zielfernrohr
+HK G12A4 - Granatwerfer;Sturmgewehre;4 (6);Granate;Granate;EM;-;8(m);-;
+HK MP 75;Maschinenpistole;6 (8);9K;-1;HM/SM/AM;2;30(s);Schattenhb. 2;Gasventil-2, SM, verb.Sicherh., Muni: Sturmgewehr
+HK PSG Enforcer;Scharfschützengewehre;6;12K;-4;HM;-;2 x 12(s);tödl. Schatten;Zielfernrohr, zusätzl. Ladestreifen
+HK Urban Combat;Maschinenpistole;7 (9);8K;-;HM/SM/AM;2;36(s);Kreuzfeuer;int. Rückstoßkomp.-2, SM, fester Schalldämpfer, Kein weiteres Zubehör möglich
+HK Urban Enforcer;Maschinenpistole;7 (9);8K;-;HM/SM/AM;1;36(s);SotA ADL;elektr. Feuern, SM, ausg. Abzug, int. Schalldämpfer
+HK Urban Enforcer - Microgranatwerfer;Maschinenpistole;4 (6);Granate;Granate;EM;-;4(m);-;Regeln: S. 27
+HK Urban Fighter;Schwere Pistolen;6;7K;-1;HM;1;10(s);SotA ADL;int. Rückstoßkomp.-1 nichtmetallisch, kein weiteres Zubehör möglich, extra Schalldämpfer, Regeln: S. 21
+HK Urban Fighter International;Schwere Pistolen;5;8K;-1;HM;1;10(s);tödl. Schatten;Keramikkomp.-6, Schalldämpfer, Int. Rückstoßkomp.-1, Regeln: S. 32
+HK Urban Striker;Scharfschützengewehre;8 (10);13K;-4;HM;1 (3);10(s);SotA ADL;elektr. Feuern, Zweibein, SM, ausg. Abzug, Zielfern., Schalldämpfer, leicht zerlegbar, verb. Sicherheitssyst.
+HK XM30 – LMG;Leichtes Maschinengewehr;6 (8);9K;-2;SM/AM;1 (3);100 (gurt);Kreuzfeuer;Schockp., Zweibein, SM, Zielfernrohr,  Regeln: S. 37
+HK XM30 Karabiner;Sturmgewehre (Karabiner, RW MP, Tarn +4);6 (8);9K;-2;HM/SM/AM;1;30(s);Kreuzfeuer;Schockp., SM, Zielfernrohr,  Regeln: S. 37
+HK XM30 Karabiner - Granatwerfer;Sturmgewehre (Karabiner, RW MP, Tarn +4);4 (6);Granate;Granate;EM;;6(s);-;
+HK XM30 Karabiner - Schrotflinte;Sturmgewehre (Karabiner, RW MP, Tarn +4);3 (5);10K;-1;HM;1;10(s);-;
+HK XM30 Scharfschützeng.;Scharfschützengewehre;7 (9);9K;-2;HM;1 (3);10(s);Kreuzfeuer;Schockp., Zweibein, SM, Zielfernrohr,  Regeln: S. 37
+HK XM30 Sturmgewehr;Sturmgewehre;6 (8);9K;-2;HM/SM/AM;1;30(s);Kreuzfeuer;Schockploster, SM, Zielfernrohr,  Regeln: S. 37
+HK XM30 Sturmgewehr - Granatwerfer;Sturmgewehre;4 (6);Granate;Granate;EM;;6(s);-;
+HK XM30 Sturmgewehr - Schrotflinte;Sturmgewehre;3 (5);10K;-1;HM;1;10(s);-;
+HK-227;Maschinenpistole;5 (7);7K;-;HM/SM/AM;-1;28(s);Regelwerk;ausziehb. Schulterstütze, SM, int. Schalldämpfer
+HK-233C;Maschinenpistole;4;8K;-1;HM/SM/AM;-1;30(s) o. 40(s);SotA ADL;auskl. Schulterstütze, Montageschienen (oben, Seiten)
+Horizon-Flynn Defense-Com: Hold-Out;Holdout-Pistolen;5;5K;-;EM;-;2(k);tödl. Schatten;Regeln: S. 138
+Ingram Smartgun;Maschinenpistole;4 (6);8K;-;SM/AM;2(3);32(s);Regelwerk;ausz. Schulterstütze, Gas-2. SM, int. Schalldämpfer
+Ingram Supermach 200;Maschinenpistole;6;5K;-6;SM/AM;2;40(s);tödl. Schatten;SM, Schockpolster, int.Rückstoßkomp.-1, Regeln: S. 140
+Ingram Valiant – LMG;Leichtes Maschinengewehr;5 (6);9K;-2;SM/AM;3;50(s) o. Gurt;Regelwerk;Gasventil-2, Schockpolster, LM
+Izom Artemis;Sturmgewehre (Karabiner, RW MP, Tarn +4);5 (6);9K;-2;SM/AM;-;30(s);tödl. Schatten;LM
+Izom Artemis - Granatwerfer;Sturmgewehre (Karabiner, RW MP, Tarn +4);3 (4);Granate;Granate;EM;-;1(m);-;
+Krime Bomb;Sturmkanonen;6 (7);16K;-6;EM;-;4(m);Schattenhb. 1;LM, 2 Montageschienen
+Krime Boom;Schrotflinten;4;10K;-1;AM;-;20(m);tödl. Schatten;nur in Trollgröße
+Krime Boss;Schrotflinten;3;13K;-1;HM;1;15(t);Schattenhb. 1;int. Rückstoßkomp.-1, Metamenschen-Anpassung
+Krime Cannon;Sturmkanonen;4 (5);16K;-6;HM;-;6(m);Regelwerk;Metamenschen-Anpassung
+Krime Happiness;Sturmgewehre;3;9K;-2;AM;-;100(Gurt);tödl. Schatten;
+Krime Spree;Maschinenpistole;4;7K;-;AM;1;30(s);Schattenhb. 1;Metamenschen-Anpassung
+Krime Triple-Dwarf Nano - LMG;Leichtes Maschinengewehr;3 (5);7K;-;AM;-;100 (gurt);tödl. Schatten;SM, ang. Griff, nur in Zwergengröße, Regeln: S. 42
+Krime Triple-Ork Microg – LMG;Leichtes Maschinengewehr;3 (5);8K;-2;AM;-;100 (gurt);tödl. Schatten;SM, ang. Griff, nur in Orklgröße, Regeln: S. 42
+Krime Triple-Troll Minig.-LMG;Leichtes Maschinengewehr;3 (5);10K;-4;AM;-;100 (gurt);tödl. Schatten;SM, ang. Griff, nur in Trollgröße, Regeln: S. 42
+Krime Trollbogen;Projektilwaffen (Bögen, Zwillen);4;(Stufe+2)K;-(St:4);;;;tödl. Schatten;Stufe 6 bis 12 (auf Pfeile Stufe 11 und 12 erhältlich)
+Krime Wave – LMG;Leichtes Maschinengewehr;5;10K;-2;AM;-2;50(s) o. Gurt;Schattenhb. 1;Zweibein, Metamenschen-Anpassung
+Krime Whammy;Schrotflinten;3;12K;-1;EM;1;5(m);tödl. Schatten;Schockploster, Nahkampfverstärkung, Regeln: S. 41
+Krupp Arms Kriegsfaust;Sturmgewehre;8;9K;-1;HM/SM;1;25(t);Schattenhb. 1;int. Rückstoßkomp.-1, Zielfern (Verb-1, Vergr.), Nahkampfverstärkung, Metamenschen-Anpassung
+Krupp Arms LeMat 2072;Schwere Pistolen;5;8K;-1;EM;-;9(tr);Harte Ziele;
+Krupp Arms LeMat 2072 - Flintenlauf;Schwere Pistolen;5;10K(f);4;EM;-;1(k);-;RW:  schwere Pistole
+leichte Armbrust;Projektilwaffen (Armbrüste, Harpunengewehre);7;5K;-1;;;4(m);Regelwerk;
+M1 Garand;Sportgewehre;5;12K;-1;HM;-;8(s);Schattenhb. 1;altes Modell
+M79B1 Law;Raketenwerfer;4;Rakete;Rakete;EM;-;1(v);tödl. Schatten;Regeln: S. 437
+Mannlicher Dirmingen SX BD;Sportgewehre;6;12K;-3;EM;1;1(k);Schattenhb. 2;auskl. Schulterstütze,  RW:  Schrotflinte (Massiv)
+Mannlicher Dirmingen SX BD - Flintenlauf;Sportgewehre;6;12K(f);-3;EM;1;1(k);-;RW:  Schrotflinte (Flechette)
+Mannlicher Dirmingen SX BD - Kleinkaliberlauf;Sportgewehre;6;6K;-;SM;1;10(s);-;RW:  Automatikpistole
+Mannlicher Marpingen Pro D;Sportgewehre;6;11K;-4;HM;1;6(m);Schattenhb. 2;int. Rückstoßkomp.-1, Montageschiene  
+Mannlicher Marpingen Pro D - 2 Flintenläufe;Sportgewehre;5;12K(f);-1;EM;1;2(k);-;kurze Salve möglich, RW:  Schrotflinte (Flechette)
+Marlin 3041 BL;Sportgewehre;5;10K;-3;HM;-;6(m);Schattenhb. 1;Zielfernrohr (Vergr.)
+Marlin 3468 SS;Sportgewehre;4;13K;-1;EM;-;4(m);Schattenhb. 1;
+Marlin 79 S;Sportgewehre;4;6K;-;HM;-;10(s);Schattenhb. 1;
+Marlin X71;Sportgewehre;5;12K;-4;EM;-;5(m);Schattenhb. 1;Extremumgeb.-1 (arkt.), Zielfern (RV, Verb-2, Vergr.)
+Mitsubishi Yakusoku MRL;Raketenwerfer;4;Rakete;Rakete;HM/SM;-;4x2(m);Kreuzfeuer;SM, Regeln: S. 47
+mittlere Armbrust;Projektilwaffen (Armbrüste, Harpunengewehre);6;7K;-2;;;4(m);Regelwerk;
+Morrissey Alta;Schwere Pistolen;5 (6);8K;-1;HM;-;12(s);tödl. Schatten;LM,  Regeln: S. 33
+Morrissey Elite;Schwere Pistolen;4 (5);8K;-1;HM;-;5(s);tödl. Schatten;LM, Tarnmod.-1, RW: leichte Pistole
+Mossberg AM-CMDT;Schrotflinten;5 (7);12K;-1;HM/SM/AM;-;10(s);Kreuzfeuer;SM
+Nemesis Arms Man-Catcher;Raketenwerfer;4;speziell;speziell;EM;-;10(m);tödl. Schatten;Fertigkeit: exot. Fkw,  Regeln: S. 141
+Nemesis Arms Praetorian;Schwere Pistolen;4 (5);8K;-1;HM;-;12(s);Tricks&Finesse;LM, Bajonett, persönlicher Stil
+Nemesis Arms Praetorian II;Schwere Pistolen;4 (6);8K;-1;HM;1;12(s);tödl. Schatten;SM, Nahkampfverstärkung, pers.Stil, Bajonett
+Nitama Optimum II;Sturmgewehre;5 (7);9K;-2;HM/SM/AM;1;30(s);Kreuzfeuer;Schockpolster, SM
+Nitama Optimum II - Schrotflinte;Sturmgewehre;4 (6);10K;-1;HM;1;5(m);-;
+Nitama Sporter;Leichte Pistolen;6 (7);6K;-;HM;-;5(m);Kreuzfeuer;LM, RW: schwere Pistole
+Ogerhammer SWS;Sturmkanonen;6;16K;-4;HM;-;6(s);Kreuzfeuer;Zielfernroht (Bild, Blitzk., RV, Vergr.), Kommlink-4
+Onotari Arms Ballista MML;Raketenwerfer;Rakete;Rakete;Rakete;EM;-;4(m);Kreuzfeuer;Laser-Zielmarkierer, Regeln: S. 46
+Onotari Arms Equalizer;Automatikpistolen;4 (5);7K;-;SM/AM;-1;12(s);Kreuzfeuer;auskl. Schulterstütze, LM
+Onotari Arms HL-13 Karabiner;Sturmgewehre (Karabiner, RW MP, Tarn +4);4 (6);9K;-2;HM/SM/AM;-;30(s);tödl. Schatten;SM, Montageschiene (Unterlauf) Regeln: S. 39
+Onotari Arms HL-13 MP;Maschinenpistole;4 (6);7K;-;HM/SM/AM;-;30(s);tödl. Schatten;SM, Regeln: S. 39
+Onotari Arms HL-13 Scharfsch.;Scharfschützengewehre;6 (8);11K;-2;HM/SM;-;30(s);tödl. Schatten;SM, Montageschiene (Unterlauf), Regeln: S. 39
+Onotari Arms HL-13 Sturmgew.;Sturmgewehre;5 (7);10K;-2;HM/SM/AM;-;30(s);tödl. Schatten;SM, Montageschiene (Unterlauf), Regeln: S. 39
+Onotari Arms JP-K50;Scharfschützengewehre;7;12K;-3;HM/SM;1;25(s);Kreuzfeuer;Schockpolster
+Onotari Arms Pressure KS-X;Schrotflinten;4 (5);10K;-1;HM/SM;-1;6(s);SotA ADL;auskl. Schulterstütze, KM, Montageschiene (oben), Schalldämpfer erhältlich, Regeln: S. 35
+Onotari Arms S-3K;Maschinenpistole;4 (6);7K;-;SM/AM;-1;30(s);tödl. Schatten;SM, auskl. Schulterstütze, zusammenklappbar
+Onotari Arms SIG-6;Maschinenpistole;4 (6);8K;-;SM/AM;2(3);16(s) o. 32(s);Schattenhb. 1;Gasventil-2, ausziehb. Schulterstütze, SM
+Onotari Arms Troublemaker;Schwere Pistolen;5 (6);8K;-1;HM;-;18(s);Schattenhb. 1;LM
+Onotari Arms Vagabond;Schwere Pistolen;5;8K;-2;HM;1;6(tr);tödl. Schatten;Rückstoß-1 durch Trommeldesign
+Onotari Arms Violator;Schwere Pistolen;5 (7);7K;-1;HM;1;10(s);Kreuzfeuer;SM, int. Rückstoßkomp.-1, Freund/Feind-Erkennung
+Onotari Interceptor;Raketenwerfer;4 (6);Rakete;Rakete;EM;-;2(v);Regelwerk;SM, kann unterschiedliche Raketen gleichzeitig laden
+Panther XXL;Sturmkanonen;5 (7);17K;-6;EM;-;15(s);Regelwerk;SM
+Phalanx System Vogeljäger II;Raketenwerfer;5;Rakete;Rakete;EM;-;1(v);tödl. Schatten;Zielfernrohr, Freund-/Feinderkennung, Regeln: S. 43
+Pioneer 60;Sportgewehre;5;10K;-1;EM;-;5(m);Kreuzfeuer;
+Pistolenarmbrust;Projektilwaffen (Armbrüste, Harpunengewehre);7;4K;-;EM;;1(v);Kreuzfeuer;RW:  schwere Pistole
+PJSS LNB/13 „Schinderhannes“;Schrotflinten;4;11K;-1;EM;-;2(k);Gruppe;
+PJSS Modell 55;Schrotflinten;6;11K;-1;EM;1;2(k);Regelwerk;Schockpolster, kurze Salve möglich
+PJSS Modell 75;Schrotflinten;6;11K;-1;EM;1;2(k);SotA ADL;Schockpolster, kurze Salve möglich
+PJSS Modell 75-III;Schrotflinten;6;11K;-1;EM;1;2(k);SotA ADL;Schockpolster, kurze Salve möglich
+PJSS Modell 75-III- Büchsenlauf;Schrotflinten;6;12K;-2;EM;1;1(k);-;Salve möglich, wenn alle drei Läufe gleiche Muni
+PSK-3 schwere Klapppistole;Schwere Pistolen;4 (5);8K;-1;HM;-;10(s);Kreuzfeuer;Regeln: S. 32
+PSK-4 Klapp-Automatikpistole;Automatikpistolen;5 (6);6K;-;HM/SM;-1;30(s);Kreuzfeuer;auskl. Schulterstütze, LM, Regeln: S. 34
+Raecor Sting;Holdout-Pistolen;4;8k(f);5;EM;-;4(m);tödl. Schatten;nur Flechette-Munition möglich
+Ranger Arms SM-5;Scharfschützengewehre;8;14K;-5;HM;1;15(s);Regelwerk;Schockploster,, Zielfern (Vergr.), Schalldämpfer, Zerlegbar
+Remington 950;Sportgewehre;7;12K;-4;EM;-;5(m);Regelwerk;Zielfernrohr (Vergr.)
+Remington 990;Schrotflinten;4;11K;-1;HM;-;8(s);Kreuzfeuer;Montageschienen (auf- u. Unterlauf)
+Remington 995 „Buzzsaw“;Schrotflinten;4;11K;-1;HM;-;8(s);tödl. Schatten;Vordergriff, mod.Repetiergriff, Montageschiene (oben u. unten), Sturmzähne, Regeln: S. 138
+Remington Roomsweeper;Schwere Pistolen;4;7K;-1;HM;-;8(m);Regelwerk;Regeln f. Schrotflinten bei Flechettemunition
+Remington Suppressor;Automatikpistolen;6;7K;-1;HM/SM;-;15(s);Schattenhb. 1;Schalldämpfer
+RPK - SMG;Schweres Maschinengewehr;5 (6);12K;-4;AM;-6;50(s) o. Gurt;Regelwerk;Dreibein
+Ruger 101;Sportgewehre;6 (7);11K;-3;HM;1;8(m);Regelwerk;Schockpolster
+Ruger Super Warhawk;Schwere Pistolen;5 (6);9K;-2;EM;-;6(tr);Regelwerk;
+Ruhrmetall SF-20 - SMG;Schweres Maschinengewehr;5 (6);12K;-4;AM;3(4);50(s) o. Gurt;Kreuzfeuer;Gasventil-3, Hüftpolstersystem, LM
+Ruhrmetall SMK 252;Sturmkanonen;6;16K;-5;HM;1(2);20(s);SotA ADL;Vordergriff, Zweibein, verl. Lauf, Zielfernrohr, Vergr. Ladestreifen-1
+SA Nemesis – LMG;Leichtes Maschinengewehr;5 (7);9K;-2;SM/AM;2;50(s) o. Gurt;Kreuzfeuer;Gasventil-2, SM, Freund/Feind-Erkennungssystem
+Sako M2045;Sturmgewehre;5 (6);9K;-2;HM/SM/AM;4 (5);30(s);Gruppe;LM, Gasventil-3, Vordergriff, auskl. Schulterstütze, 4 Montageschienen, Zielfernrohr, taktische Lampe
+Sako M2045 SU;Sturmgewehre;5 (6);9K;-2;HM/SM/AM;2 (3);30(s);Gruppe;LM, Gasventil-2, auskl. Schulterstütze
+Savalette Guardian;Schwere Pistolen;5 (7);8K;-1;HM/SM*;1;12(s);Kreuzfeuer;SM, Micro-Gyro-Rückstoßkomp.-1, Salve = kompl. H.
+SBD-44;Sturmgewehre;3;10K;-1;HM/SM/AM;-;32(s);Schattenhb. 1;altes Modell
+schwere Armbrust;Projektilwaffen (Armbrüste, Harpunengewehre);5;10K;-3;;;4(m);Regelwerk;
+SCK Modell 100;Maschinenpistole;5 (7);8K;-;HM/SM;-1;30(s);Regelwerk;auskl. Schulterstütze, SM
+Shiawase Arms Monsoon;Sturmgewehre;5 (7);10K;-1;HM/AM;1;20(v) x 6;Schattenhb. 1;elektr. Feuern, SM, Nahkampfverstärkung
+Shiawase Arms Puzzler;Leichte Pistolen;4;6K;-;HM;-;12(s);Kreuzfeuer;zerlegbar, Regel: S. 31
+Shiawase Arms Rain;Schrotflinten;4;10K;-1;HM;-1;5(v);Schattenhb. 1;ausz. Schulterstütze
+Springfield 2003;Sportgewehre;9;12K;-2;EM;-;5(m);Schattenhb. 1;altes Modell
+Springfield M1A;Sportgewehre;6;12K;-1;HM;-;20(s);Schattenhb. 1;Zielfernrohr (Vergr. Bild, Verb.-1)
+Springfiled 1855 Reproduction;Sportgewehre;3;10K;-;EM;-;1(p);Schattenhb. 1;altes Modell, Perkussionsschloss
+Steyr AUG-CSL III – LMG;Leichtes Maschinengewehr;6 (7);10K;-2;SM/AM;-2;30(s);SotA ADL;Zweibein, LM, Zielfernrohr,  Regeln: S. 29
+Steyr AUG-CSL III Karabiner;Sturmgewehre (Karabiner, RW MP, Tarn +4);6 (7);8K;-2;HM/SM/AM;1;36(s);SotA ADL;Vordergriff, LM, Zielfernrohr,  Regeln: S. 29
+Steyr AUG-CSL III Scharfsch.;Scharfschützengewehre;7 (8);10K;-3;HM;-2;10(s);SotA ADL;Zweibein, LM, Zielfernrohr,  Regeln: S. 29
+Steyr AUG-CSL III Sturmgew.;Sturmgewehre;6 (7);10K;-2;HM/SM/AM;1;30(s);SotA ADL;Vordergriff, LM, Zielfernrohr,  Regeln: S. 29
+Steyr TMP;Automatikpistolen;4 (5);7K;-;HM/SM/AM;-;30(s);Regelwerk;LM
+Steyr UCR;Sturmgewehre;6 (7);9K;-2;HM/SM/AM;1;40(s);SotA ADL;Schockpolster, LM
+Steyr UCR - Unterlaufschrotflinte;Sturmgewehre;3 (4);10K;-1;EM;-;4(m);-;
+Stinger Kugelschreiber-Pistole;Holdout-Pistolen;4;6K;-;EM;-;1(k);Tricks&Finesse;Tarnmod.-4 zum Entdecken des wahren Zwecks
+Stoner Ares M-22A1 - SMG;Schweres Maschinengewehr;4;18K;-6;AM;6*;200 (gurt);tödl. Schatten;SM, *zusätzl. Zum Fahrzeugrumpf, Fahrzeugwaffe, Regeln: S. 137
+Stoner Ares M202 - MMG;Mittleres Maschinengewehr;5;10K;-3;AM;-;50(s) o. Gurt;Regelwerk;
+Streetline Special;Holdout-Pistolen;4;6K;-;HM;-;6(s);Regelwerk;-2 Würfel bei Scan mit MAD-Scannern
+SWD Dragunov;Scharfschützengewehre;5 (6);10K;-2;HM;-;10(s);Schattenhb. 1;LM
+taktische Enterhakenkanone;Projektilwaffen (Armbrüste, Harpunengewehre);4 (6);9G;-2;EM;;1(k);Harte Ziele;SM, RW: s. Armbrust, Regeln: S. 180
+Taurus Omni-6;Leichte Pistolen;5 (6);6K / 7K;- / -1;HM/EM;-;6(tr);Regelwerk;Muni für leichte und schwere Pistolen ladbar
+Terracotta Arms AM-47;Scharfschützengewehre;7 (9);15K;-4;HM;-2;18(s);Kreuzfeuer;Zweibein, SM, Zielfern (Bild, RV, Vergr.), Kommlink-5,
+Terracotta Arms Pup;Holdout-Pistolen;4 (6);6K;-;HM;-;5(s);tödl. Schatten;SM, Modell mit Schalldämpfer (Verf. 6V, Preis 600,-)
+Terracotta Arms X-5 MGL;Raketenwerfer;4;Rakete;Rakete;EM;1;6(tr);tödl. Schatten;Vordergriff
+Ultimax 70;Automatikpistolen;5 (6);6K;-;SM/AM;2;15(s);Kreuzfeuer;Gasventil-2, LM
+Ultimax MMG - MMG;Mittleres Maschinengewehr;5 (6);10K;-2;AM;1 (6);50(s) o. Gurt;Kreuzfeuer;Vordergriff, Dreibein, LM
+Ultimax Rain Forest Carbine;Sturmgewehre (Karabiner, RW MP, Tarn +4);7;12K;-2;HM;-1;18(s);Schattenhb. 1;ausz. Schulterstütze, Zielfern (Bild, Blitzkomp., RV), Werte modifiziert durch Gruppe
+Ultimax SMG-2 - SMG;Schweres Maschinengewehr;4 (5);11K;-4;AM;-6;50(s) o. Gurt;Kreuzfeuer;Dreibein, LM
+Uzi IV;Maschinenpistole;4 (5);7K;-;SM;-1;24(s);Regelwerk;auskl. Schulterstütze, LM
+Walther P118;Automatikpistolen;5 (7);7K;-;HM/SM/AM;3;24(s);SotA ADL;SM, Gasventil-2, elektr. Feuern, ausgeb. Abzug, Freund-/Feinderkennung, vergr. Ladestreifen 1
+Walther Palm Pistol;Holdout-Pistolen;4;7K;-;EM/SM;-;2(k);Regelwerk;kurze Salve möglich
+Walther PB 120;Leichte Pistolen;6 (7);7K;-;HM;-;10(s);Gruppe;LM
+Walther PP110;Leichte Pistolen;7;7K;-;HM;-;16(s);Schattenhb. 2;Metamenschen-Anpassung, takt.Lampe. verb.Sicherh.
+Walther Secura II;Schwere Pistolen;6 (8);8K;-1;HM;-;18(s);SotA ADL;SM, takt. Lampe (standard)
+Walther Secura Superkomp.;Holdout-Pistolen;4;7K;-1;HM;-;4(s);SotA ADL;Keramik-/Plaststahlkomp.-4,  Muni: schwere Pistole
+Winchester Airbow;Projektilwaffen (Armbrüste, Harpunengewehre);5;10K;-2;EM;;1(v);tödl. Schatten;RW:  mittl. Armbrust, Regeln: S. 25
+Winchester Modell 201;Schrotflinten;8;11K;-1;HM;-;2(k);Schattenhb. 1;
+Winchester Modell 2024;Sportgewehre;6;12K;-;HM;-;7(m);Schattenhb. 1;Zielfernrohr (Vergr.)
+Winchester Modell 2054;Schrotflinten;4 (5);11K;-1;HM;-1;7(m);Schattenhb. 1;ausz. Schulterstütze, LM
+Winchester Modell 2066;Schrotflinten;4;11K;-1;EM;-;5(m);Schattenhb. 1;
+Winchester Modell 2067;Sportgewehre;5;8K;-1;HM;-;15(m);Schattenhb. 1;altes Modell,  RW:  MP,  Muni: schwere Pistole
+Wirtz Demo Control;Schrotflinten;4;12K;-1;EM;-;4(m);Gruppe;
+Wuxing Armtech PTL-02;Granat-/Torpedowerfer;5;Torpedo;Torpedo;EM;-;6(tr);tödl. Schatten;Umgebungsmod. 2 (Unterwasser), Regeln und Muni: S. 141
+WW Infiltrator;Schwere Pistolen;5;7K;-1;HM;-;15(s);tödl. Schatten;keine Modikationen, Regeln: S. 34
+Yamaha Raiden;Sturmgewehre;6 (8);11K;-2;SM/AM;1;60(s);Regelwerk;elektr. Feuern, SM, int. Schalldämpfer
+Yamaha Sakura Fubuki SX;Leichte Pistolen;6;6K;-;HM/SM;1;8(v) x 4;Tricks&Finesse;elektr. Feuern
+Unterlaufgranatwerfer;Granat-/Torpedowerfer;4;Granate;Granate;EM;-;6(m);Regelwerk;

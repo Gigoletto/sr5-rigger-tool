@@ -1,0 +1,367 @@
+﻿Name;Kategorie;Gerätestufe;Handling_Strasse;Handling_Gelaende;Beschleunigung_Normal;Beschleunigung_Sprint;Geschwindigkeit_Normal;Geschwindigkeit_Sprint;Pilot;Rumpf;Panzerung;Sensor;Sitze;Quelle;Seite;Erläuterungen
+Aerodesign Systems Condor LDSD-23;Minidrohnen;2.0;2.0;2.0;0.0;0.0;0.0;0.0;2.0;1.0;0.0;4.0;0.0;R5;129;Riggerinterface
+Aeroquip M.E.D.-1 'Dustoff' Medizinische Evakuierungsdrohne;Große Drohnen;4.0;3.0;3.0;4.0;4.0;4.0;4.0;4.0;4.0;5.0;3.0;0.0;BB;23;Dustoff Gepanzertes Valkyrie-Modul
+Airbus A140;Rotormaschinen;4.0;4.0;4.0;4.0;4.0;5.0;5.0;4.0;18.0;12.0;4.0;8.0;SAG;56;Diebstahlsicherung
+Airbus ALS-699 Lift-Ticket;Rotormaschinen;3.0;5.0;5.0;3.0;3.0;3.0;3.0;3.0;16.0;12.0;4.0;5.0;R5;102;Seilwinde (Einfach)
+Airstream Traveler Chinook;LKWs;2.0;3.0;2.0;1.0;1.0;4.0;3.0;2.0;14.0;12.0;2.0;10.0;R5;59;Innenausstattung (minimal)
+Airstream Traveler Outback;LKWs;2.0;3.0;4.0;1.0;1.0;3.0;4.0;2.0;14.0;12.0;4.0;8.0;R5;59;Innenausstattung (minimal)
+Airstream Traveler Preserve;LKWs;2.0;3.0;3.0;1.0;1.0;4.0;4.0;2.0;16.0;12.0;3.0;10.0;R5;59;Innenausstattung (minimal)
+American Airboat AirRanger;Schiffe;1.0;4.0;4.0;3.0;3.0;4.0;4.0;1.0;10.0;6.0;1.0;6.0;R5;92;
+American Airboat AirRanger Heavy;Schiffe;1.0;4.0;4.0;3.0;3.0;4.0;4.0;1.0;12.0;6.0;1.0;5.0;R5;92;
+Ares Arms Sentry V;Kleine Drohnen;3.0;4.0;0.0;1.0;1.0;1.0;1.0;3.0;2.0;6.0;2.0;0.0;R5;130;Riggerinterface
+Ares Cheetah;Mittlere Drohnen;3.0;4.0;4.0;2.0;2.0;6.0;6.0;3.0;2.0;6.0;2.0;0.0;R5;139;Riggerinterface
+Ares Chuck Wagon;Autos;2.0;2.0;2.0;1.0;1.0;3.0;3.0;2.0;16.0;5.0;2.0;2.0;R5;59;
+Ares Citymaster;LKWs;3.0;3.0;3.0;1.0;1.0;3.0;3.0;3.0;18.0;18.0;3.0;8.0;2050;210;
+Ares Dragon;Rotormaschinen;3.0;4.0;4.0;3.0;3.0;4.0;4.0;3.0;22.0;8.0;3.0;18.0;SR5;464;
+Ares Dragon;Rotormaschinen;3.0;4.0;4.0;3.0;3.0;4.0;4.0;3.0;22.0;8.0;3.0;18.0;2050;210;
+Ares Duelist;Anthropomorphe Drohnen;3.0;3.0;3.0;1.0;1.0;3.0;3.0;3.0;4.0;4.0;3.0;0.0;SR5;466;Drohnenarm
+Ares Garuda;Raketendrohnen;4.0;6.0;6.0;2.0;4.0;3.0;6.0;4.0;2.0;2.0;3.0;0.0;R5;149;Riggerinterface
+Ares KN-Y1 (Phobos);Riesige Drohnen;5.0;3.0;3.0;1.0;1.0;2.0;2.0;5.0;6.0;18.0;3.0;0.0;R5;144;Riggerinterface
+Ares KN-Y2 (Deimos);Riesige Drohnen;5.0;3.0;3.0;1.0;1.0;2.0;2.0;5.0;6.0;18.0;3.0;0.0;R5;144;Riggerinterface
+Ares KN-Y4 (Eris);Riesige Drohnen;5.0;3.0;3.0;1.0;1.0;2.0;2.0;5.0;6.0;18.0;3.0;0.0;R5;144;Riggerinterface
+Ares Matilda;Große Drohnen;2.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;8.0;8.0;4.0;0.0;R5;141;Riggerinterface
+Ares Mule;Große Drohnen;2.0;4.0;4.0;1.0;1.0;1.0;1.0;2.0;4.0;6.0;2.0;0.0;R5;142;Drohnenarm
+Ares Paladin;Große Drohnen;3.0;5.0;5.0;1.0;1.0;4.0;4.0;3.0;5.0;18.0;2.0;0.0;R5;142;Kettenantrieb
+Ares Roadmaster;LKWs;3.0;3.0;3.0;1.0;1.0;3.0;3.0;3.0;18.0;18.0;3.0;8.0;SR5;464;
+Ares Venture;Senkrechtstarter;4.0;5.0;5.0;4.0;4.0;7.0;7.0;4.0;16.0;14.0;4.0;6.0;SR5;465;
+Ares-Segway Terrier;Motorräder;2.0;5.0;2.0;1.0;1.0;2.0;2.0;2.0;2.0;2.0;2.0;1.0;R5;42;Gyrostabilisator
+Artemis Industries Nightwing;Starrflügler;1.0;6.0;6.0;1.0;1.0;3.0;3.0;1.0;4.0;0.0;1.0;1.0;SR5;464;Signaturmaskierung
+Avibras-Nissan AN 822;Rotormaschinen;3.0;5.0;5.0;0.0;0.0;6.0;6.0;3.0;14.0;10.0;3.0;5.0;SFME;31;Riggerinterface
+Aztech Criado Juan;Anthropomorphe Drohnen;2.0;2.0;2.0;1.0;1.0;2.0;2.0;2.0;2.0;0.0;2.0;0.0;R5;146;Drohnenarm
+Aztech Nightrunner;Schiffe;3.0;5.0;5.0;3.0;3.0;6.0;6.0;3.0;12.0;6.0;4.0;6.0;R5;81;Innenausstattung (minimal)
+Aztech Nightrunner;Schiffe;2.0;4.0;4.0;2.0;2.0;3.0;3.0;2.0;12.0;6.0;2.0;2.0;2050;208;
+Aztechnology Agular GX-2;Rotormaschinen;4.0;5.0;5.0;5.0;5.0;7.0;7.0;4.0;20.0;16.0;5.0;2.0;R5;97;Riggerinterface
+Aztechnology Agular GX-3AT;Rotormaschinen;4.0;4.0;4.0;4.0;4.0;6.0;6.0;4.0;22.0;20.0;4.0;10.0;R5;97;Riggerinterface
+Aztechnology Crawler;Kleine Drohnen;4.0;4.0;4.0;1.0;1.0;3.0;3.0;4.0;3.0;3.0;3.0;0.0;SR5;466;Riggerinterface
+Aztechnology Hedgehog;Minidrohnen;4.0;3.0;3.0;1.0;1.0;1.0;1.0;4.0;1.0;0.0;3.0;0.0;R5;129;Riggerinterface
+Blohm & Voss Classic 111;Schiffe;4.0;3.0;3.0;2.0;2.0;4.0;4.0;4.0;24.0;14.0;4.0;14.0;R5;88;Innenausstattung (Oberklasse)
+BMW Gaia;Autos;2.0;4.0;3.0;2.0;2.0;4.0;4.0;2.0;11.0;8.0;2.0;4.0;SAG;45;Diebstahlsicherung
+BMW GGX Sandleopard;Motorräder;2.0;3.0;5.0;2.0;2.0;4.0;4.0;2.0;8.0;9.0;3.0;2.0;SOTG;15;Geländeaufhängung
+BMW i8 Interceptor;Sicherheit/Polizei/Militär;4.0;5.0;3.0;4.0;4.0;8.0;8.0;4.0;12.0;8.0;4.0;3.0;R5;68;Ölsprüher
+BMW Luxus;Sicherheit/Polizei/Militär;5.0;5.0;5.0;3.0;3.0;5.0;5.0;5.0;18.0;16.0;6.0;8.0;R5;73;Innenausstattung (Mittelklasse)
+BMW R12 Waffenrad;Sicherheit/Polizei/Militär;3.0;4.0;3.0;2.0;2.0;4.0;4.0;3.0;10.0;8.0;4.0;2.0;R5;66;
+BMW Sleipnir;Motorräder;2.0;3.0;5.0;2.0;2.0;3.0;3.0;2.0;8.0;8.0;2.0;3.0;SAG;43;Geländeaufhängung
+BMW Sturmwagen;Sicherheit/Polizei/Militär;4.0;5.0;4.0;2.0;2.0;4.0;4.0;4.0;17.0;18.0;5.0;10.0;R5;75;Zusätzliche Ein-/Ausstiege
+BMW Teufelskatze;Sicherheit/Polizei/Militär;3.0;5.0;4.0;3.0;3.0;5.0;5.0;3.0;16.0;16.0;3.0;7.0;R5;71;FlashTech
+BMW Trollhammer;Motorräder;1.0;4.0;3.0;2.0;2.0;4.0;4.0;1.0;10.0;8.0;2.0;1.0;TCT;184;Metamenschen-Anpassung
+BMW X Infinity;Autos;2.0;5.0;5.0;2.0;2.0;4.0;4.0;2.0;14.0;13.0;4.0;6.0;SHB;42;
+Buell Spartan;Motorräder;2.0;3.0;4.0;2.0;2.0;4.0;4.0;2.0;7.0;6.0;2.0;1.0;R5;45;Geländeaufhängung
+Bulldog Step-Van;Autos;1.0;3.0;3.0;1.0;1.0;3.0;3.0;1.0;16.0;12.0;2.0;6.0;2050;208;
+Bust-A-Move (zweite Generation);Mittlere Drohnen;2.0;4.0;4.0;1.0;1.0;3.0;3.0;2.0;2.0;1.0;2.0;0.0;SS;178;Riggerinterface
+Camellos;Nutzfahrzeuge;1.0;3.0;2.0;1.0;1.0;3.0;3.0;1.0;16.0;5.0;2.0;200.0;HT;139;
+Cargolifter Industries CL-180;Luftschiffe;4.0;4.0;4.0;2.0;2.0;2.0;2.0;4.0;12.0;12.0;4.0;4.0;SAG;57;Solarzellen
+CAS-Regierungsfahrzeug (Esprit Industries Watcher (SUV)), Nachahmung;Sicherheit/Polizei/Militär;2.0;5.0;5.0;5.0;5.0;5.0;5.0;2.0;14.0;12.0;5.0;8.0;SS;187;
+Caterpillar Omniwinder;Nutzfahrzeuge;3.0;2.0;2.0;1.0;1.0;3.0;3.0;3.0;20.0;16.0;3.0;3.0;SAG;52;Diebstahlsicherung
+Cessna C750;Starrflügler;2.0;3.0;3.0;3.0;3.0;5.0;5.0;2.0;18.0;4.0;2.0;4.0;SR5;464;
+Cessna C750;Starrflügler;2.0;3.0;3.0;3.0;3.0;5.0;5.0;2.0;18.0;4.0;2.0;6.0;2050;210;
+Chevrolet Longboard;Autos;1.0;4.0;3.0;2.0;2.0;3.0;3.0;1.0;12.0;6.0;2.0;6.0;R5;52;Innenausstattung (spartanisch)
+Chrysler-Nissan Bobcat;Autos;1.0;3.0;3.0;2.0;2.0;3.0;3.0;1.0;15.0;10.0;2.0;8.0;SHB;42;
+Chrysler-Nissan Jackrabbit;Autos;1.0;4.0;3.0;2.0;2.0;3.0;3.0;1.0;8.0;4.0;2.0;2.0;SR5;462;
+Chrysler-Nissan Jackrabbit;Autos;1.0;4.0;3.0;2.0;2.0;3.0;3.0;1.0;8.0;4.0;2.0;2.0;2050;208;
+Chrysler-Nissan Journey (Pkw);Autos;1.0;4.0;3.0;3.0;3.0;3.0;3.0;1.0;9.0;5.0;1.0;4.0;SS;186;
+Chrysler-Nissan Patrol-1;LKWs;1.0;5.0;4.0;3.0;3.0;3.0;3.0;1.0;12.0;12.0;2.0;4.0;2050;210;
+Citroën-Brouillard Smoke Generator;Kleine Drohnen;2.0;3.0;3.0;1.0;1.0;1.0;1.0;2.0;2.0;0.0;2.0;0.0;R5;131;Riggerinterface
+Clockwork Greyhound;Mittlere Drohnen;3.0;3.0;3.0;1.0;1.0;2.0;2.0;3.0;2.0;1.0;2.0;0.0;TVG;19;Riggerinterface
+Cocotaxi;Motorräder;1.0;4.0;2.0;2.0;2.0;3.0;3.0;1.0;5.0;4.0;1.0;3.0;HT;139;
+Conestoga Trailblazer (Möbelwagen);LKWs;2.0;2.0;1.0;1.0;1.0;2.0;2.0;2.0;14.0;6.0;1.0;2.0;SS;186;
+Conestoga Trailblazer mit Anhänger (Möbelwagen);LKWs;2.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;20.0;6.0;1.0;2.0;SS;186;
+Conestoga Vista;LKWs;1.0;-3.0;-3.0;15.0;25.0;90.0;90.0;1.0;20.0;4.0;1.0;0.0;AR;110;Innenausstattung (minimal)
+Corsair Elysium;Schiffe;2.0;1.0;3.0;1.0;2.0;1.0;4.0;2.0;14.0;10.0;3.0;6.0;R5;85;Innenausstattung (Mittelklasse)
+Corsair Panther;Schiffe;2.0;1.0;3.0;1.0;3.0;2.0;5.0;2.0;18.0;10.0;3.0;8.0;R5;85;Innenausstattung (Mittelklasse)
+Corsair Trident;Schiffe;2.0;1.0;3.0;2.0;3.0;4.0;5.0;2.0;16.0;10.0;3.0;6.0;R5;87;Innenausstattung (Mittelklasse)
+Corsair Triton;Schiffe;2.0;1.0;1.0;2.0;2.0;6.0;6.0;2.0;16.0;10.0;3.0;6.0;R5;87;Innenausstattung (Mittelklasse)
+CrashCart MediCart;Große Drohnen;4.0;5.0;5.0;1.0;1.0;5.0;5.0;4.0;6.0;5.0;4.0;0.0;R5;143;Kettenantrieb
+CrashCart-Krankenwagen (S-K LT-21), Nachahmung;Sicherheit/Polizei/Militär;3.0;3.0;2.0;2.0;2.0;3.0;3.0;3.0;23.0;11.0;3.0;3.0;SS;187;
+Cyberspace Designs Dalmatian;Große Drohnen;3.0;5.0;5.0;3.0;3.0;5.0;5.0;3.0;5.0;5.0;3.0;0.0;SR5;466;Riggerinterface
+Cyberspace Designs Dragonfly;Minidrohnen;3.0;4.0;4.0;1.0;1.0;2.0;2.0;3.0;1.0;3.0;3.0;0.0;R5;129;Riggerinterface
+Cyberspace Designs Dragonfly;Kleine Drohnen;3.0;4.0;4.0;2.0;2.0;3.0;3.0;3.0;1.0;1.0;2.0;0.0;SS;179;Riggerinterface
+Cyberspace Designs Wolfhound;Kleine Drohnen;2.0;3.0;3.0;1.0;1.0;2.0;2.0;2.0;2.0;0.0;4.0;0.0;R5;131;Riggerinterface
+Daihatsu-Caterpillar Horseman;Motorräder;2.0;3.0;1.0;2.0;2.0;3.0;3.0;2.0;4.0;3.0;2.0;1.0;R5;41;Lebenserhaltungssystem
+Dassault Sea Sprite;Rotormaschinen;3.0;5.0;5.0;3.0;3.0;4.0;4.0;3.0;18.0;12.0;5.0;14.0;R5;98;Seilwinde (Einfach)
+DocWagon-Krankenwagen (GMC Endurance (Van)), Nachahmung;Sicherheit/Polizei/Militär;2.0;5.0;5.0;5.0;5.0;6.0;6.0;2.0;21.0;9.0;3.0;12.0;SS;187;
+Dodge Caravaner;Autos;2.0;3.0;2.0;1.0;1.0;4.0;4.0;2.0;12.0;8.0;2.0;7.0;R5;58;
+Dodge Charger;Sicherheit/Polizei/Militär;4.0;4.0;3.0;2.0;2.0;5.0;5.0;4.0;12.0;12.0;4.0;5.0;R5;67;
+Dodge General Anhänger;Sicherheit/Polizei/Militär;3.0;3.0;3.0;1.0;1.0;3.0;3.0;3.0;20.0;16.0;7.0;1.0;R5;74;Spezialausrüstung
+Dodge General Kommandowagen;Sicherheit/Polizei/Militär;5.0;3.0;3.0;1.0;1.0;4.0;4.0;5.0;20.0;16.0;7.0;10.0;R5;74;Zusätzliche Ein-/Ausstiege
+Dodge Goliath;Sicherheit/Polizei/Militär;3.0;3.0;2.0;2.0;2.0;4.0;4.0;3.0;16.0;16.0;3.0;8.0;R5;70;Schießscharten
+Dodge Hurricane;Autos;1.0;4.0;4.0;2.0;2.0;4.0;4.0;1.0;15.0;12.0;2.0;3.0;SHB;42;
+Dodge Hurricane Crew-Modell;Autos;1.0;3.0;3.0;2.0;2.0;4.0;4.0;1.0;16.0;12.0;2.0;6.0;SHB;42;
+Dodge Hurricane Security-Modell;Autos;3.0;4.0;3.0;2.0;2.0;4.0;4.0;3.0;16.0;14.0;3.0;5.0;SHB;42;
+Dodge Minotaurus;Sicherheit/Polizei/Militär;4.0;4.0;5.0;2.0;2.0;5.0;5.0;4.0;14.0;8.0;4.0;4.0;R5;71;
+Dodge Ram Industrial (breit) (Müllwagen);LKWs;2.0;2.0;1.0;1.0;1.0;1.0;1.0;2.0;16.0;8.0;4.0;4.0;SS;186;
+Dodge Ram Industrial (schmall) (Müllwagen);LKWs;2.0;3.0;1.0;1.0;1.0;1.0;1.0;2.0;16.0;8.0;4.0;4.0;SS;186;
+Dodge Rhino;Sicherheit/Polizei/Militär;6.0;4.0;4.0;2.0;2.0;4.0;4.0;6.0;24.0;14.0;7.0;9.0;R5;77;Zusätzliche Ein-/Ausstiege
+Dodge Scoot;Motorräder;1.0;4.0;3.0;1.0;1.0;3.0;3.0;1.0;4.0;4.0;1.0;1.0;SR5;462;Geringerer Verbrauch
+Dodge Scoot;Motorräder;1.0;4.0;3.0;1.0;1.0;3.0;3.0;1.0;4.0;4.0;1.0;1.0;2050;208;Geringerer Verbrauch
+Dodge Stallion;Sicherheit/Polizei/Militär;3.0;3.0;4.0;3.0;3.0;5.0;5.0;3.0;16.0;12.0;3.0;4.0;R5;71;
+Dodge Xenon;Autos;2.0;3.0;2.0;2.0;2.0;4.0;3.0;2.0;8.0;6.0;2.0;4.0;R5;47;
+Echo Motors Metaway;Autos;1.0;4.0;2.0;1.0;1.0;4.0;4.0;1.0;10.0;4.0;2.0;1.0;R5;47;Metamenschen-Anpassung
+Echo Motors Zip;Motorräder;1.0;3.0;2.0;1.0;1.0;3.0;3.0;1.0;6.0;4.0;2.0;1.0;R5;44;Metamenschen-Anpassung
+EFA-Variante;Starrflügler;3.0;5.0;5.0;6.0;6.0;8.0;8.0;3.0;18.0;12.0;5.0;2.0;2050;210;
+EMC 2073 Catcher;Sicherheit/Polizei/Militär;4.0;5.0;4.0;3.0;3.0;5.0;5.0;4.0;12.0;8.0;3.0;4.0;SAG;53;Diebstahlsicherung
+EMC Celine;Autos;2.0;3.0;2.0;2.0;2.0;3.0;3.0;2.0;14.0;10.0;2.0;6.0;SAG;46;Diebstahlsicherung
+Entertainment Systems Cyclops;Motorräder;1.0;4.0;4.0;2.0;2.0;4.0;4.0;1.0;4.0;4.0;1.0;1.0;R5;42;Gyrostabilisator
+Esprit Industries Watcher (SUV);LKWs;1.0;3.0;3.0;3.0;3.0;3.0;3.0;1.0;9.0;8.0;3.0;5.0;SS;186;
+Eurocar Escape;LKWs;2.0;3.0;4.0;1.0;1.0;3.0;3.0;2.0;16.0;12.0;3.0;8.0;SAG;47;Diebstahlsicherung
+Eurocar Escape DeKW;LKWs;3.0;3.0;4.0;2.0;2.0;3.0;3.0;3.0;18.0;14.0;2.0;6.0;SOTG;16;Diebstahlsicherung
+Eurocar Escape FüKomKW;LKWs;2.0;3.0;4.0;3.0;3.0;3.0;3.0;2.0;16.0;12.0;4.0;10.0;SOTG;16;Diebstahlsicherung
+Eurocar Escape MzKW D;LKWs;3.0;3.0;4.0;3.0;3.0;3.0;3.0;3.0;18.0;14.0;2.0;6.0;SOTG;16;Diebstahlsicherung
+Eurocar Northstar;Autos;3.0;5.0;3.0;2.0;2.0;6.0;6.0;3.0;12.0;8.0;5.0;4.0;R5;56;Innenausstattung (Mittelklasse)
+Eurocar Westwind 2000;Autos;3.0;6.0;4.0;3.0;3.0;6.0;6.0;3.0;10.0;8.0;5.0;2.0;2050;208;
+Eurocar Westwind 3000;Autos;3.0;6.0;4.0;3.0;3.0;7.0;7.0;3.0;10.0;8.0;5.0;2.0;SR5;463;Fahrgastsicherheitssystem
+Eurocopter FC;Rotormaschinen;4.0;6.0;6.0;3.0;3.0;5.0;5.0;4.0;16.0;16.0;4.0;8.0;SHB3;219;ECM
+Evo Aquavida 1;Schiffe;1.0;2.0;2.0;2.0;2.0;1.0;1.0;1.0;20.0;16.0;3.0;10.0;R5;90;Innenausstattung (Mittelklasse)
+Evo Aquavida 2;Schiffe;1.0;2.0;2.0;2.0;2.0;1.0;1.0;1.0;20.0;16.0;3.0;12.0;R5;90;Innenausstattung (Mittelklasse)
+Evo Barrakuda;Mittlere Drohnen;3.0;5.0;5.0;3.0;3.0;4.0;4.0;3.0;4.0;3.0;3.0;0.0;HAMG;173;Riggerinterface
+Evo Falcon-EX;Motorräder;1.0;3.0;5.0;1.0;2.0;2.0;3.0;1.0;7.0;9.0;1.0;2.0;R5;43;Kettenantrieb
+EVO Ikinokoru;Nutzfahrzeuge;4.0;4.0;4.0;4.0;4.0;5.0;5.0;4.0;17.0;18.0;4.0;8.0;Normi;3;
+EVO Kanyuk;Rotormaschinen;6.0;5.0;5.0;5.0;5.0;6.0;6.0;6.0;16.0;20.0;6.0;4.0;Normi;1;
+Evo Krokodil;Mittlere Drohnen;2.0;3.0;3.0;1.0;1.0;2.0;3.0;2.0;3.0;6.0;2.0;0.0;R5;140;Amphibisch (Drohne)
+Evo Proletarian;Kleine Drohnen;2.0;4.0;2.0;1.0;1.0;2.0;2.0;2.0;2.0;0.0;2.0;0.0;R5;132;Drohnenarm
+EVO Sokol;Rotormaschinen;3.0;5.0;5.0;4.0;4.0;5.0;5.0;3.0;10.0;12.0;6.0;1.0;Normi;2;
+Evo Water Strider;Schiffe;2.0;3.0;3.0;1.0;1.0;2.0;2.0;2.0;8.0;5.0;2.0;1.0;R5;84;Lebenserhaltungssystem
+Evo Waterking;Schiffe;3.0;3.0;3.0;2.0;2.0;3.0;3.0;3.0;14.0;8.0;2.0;12.0;R5;79;Innenausstattung (Mittelklasse)
+Evo-Krime Krime Wing;Senkrechtstarter;4.0;4.0;4.0;5.0;5.0;6.0;6.0;4.0;22.0;18.0;5.0;20.0;R5;105;Metamenschen-Anpassung
+F-B Bumblebee;Mittlere Drohnen;3.0;3.0;3.0;1.0;1.0;2.0;2.0;3.0;4.0;14.0;3.0;0.0;NP;23;Riggerinterface
+Federated-Boeing Commuter;Senkrechtstarter;3.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0;16.0;8.0;3.0;30.0;SR5;465;
+Federated-Boeing Commuter;Senkrechtstarter;3.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0;16.0;8.0;3.0;30.0;2050;210;
+Federated-Boeing Eagle;Senkrechtstarter;4.0;5.0;5.0;4.0;4.0;7.0;7.0;4.0;16.0;14.0;4.0;6.0;2050;210;
+Federated-Boeing Kull;Mittlere Drohnen;3.0;3.0;3.0;2.0;2.0;4.0;4.0;3.0;3.0;0.0;2.0;0.0;R5;140;Riggerinterface
+Federated-Boeing PBY-70 Catalina II;Starrflügler;3.0;4.0;4.0;3.0;3.0;3.0;3.0;3.0;22.0;14.0;4.0;16.0;R5;100;
+Ferngesteuerte Cyberhand;Minidrohnen;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;R5;130;Riggerinterface
+Ferret RPD-1X;Kleine Drohnen;3.0;4.0;2.0;1.0;1.0;1.0;1.0;3.0;2.0;3.0;3.0;0.0;R5;132;Riggerinterface
+Festo Pigeon 2.0;Minidrohnen;2.0;4.0;4.0;1.0;1.0;2.0;2.0;2.0;1.0;0.0;2.0;0.0;R5;129;Realistisches Aussehen (Drohne)
+Festo Sewer Snake;Kleine Drohnen;2.0;3.0;3.0;1.0;1.0;1.0;1.0;2.0;2.0;0.0;2.0;0.0;R5;132;Riggerinterface
+Firmenmöbelwagen (Conestoga Trailblazer), Nachahmung;Sicherheit/Polizei/Militär;3.0;3.0;2.0;2.0;2.0;3.0;3.0;3.0;21.0;9.0;2.0;3.0;SS;187;
+Firmenmöbelwagen mit Anhänger (Conestoga Trailblazer), Nachahmung;Sicherheit/Polizei/Militär;3.0;2.0;2.0;2.0;2.0;2.0;2.0;3.0;30.0;9.0;2.0;3.0;SS;187;
+Firmenmüllwagen (Dodge Ram Industrial: breit);Sicherheit/Polizei/Militär;3.0;3.0;2.0;2.0;2.0;2.0;2.0;3.0;24.0;12.0;6.0;6.0;SS;187;
+Firmenmüllwagen (Dodge Ram Industrial: schmal);Sicherheit/Polizei/Militär;3.0;5.0;2.0;2.0;2.0;2.0;2.0;3.0;24.0;12.0;6.0;6.0;SS;187;
+Ford Americar;Autos;1.0;4.0;3.0;2.0;2.0;3.0;3.0;1.0;11.0;6.0;2.0;4.0;SR5;463;
+Ford Americar;Autos;1.0;4.0;3.0;2.0;2.0;3.0;3.0;1.0;11.0;6.0;2.0;4.0;2050;208;
+Ford Broadcast;LKWs;2.0;3.0;3.0;1.0;1.0;3.0;3.0;2.0;16.0;12.0;4.0;4.0;NF;174;
+Ford Econovan;Autos;2.0;3.0;2.0;1.0;1.0;4.0;4.0;2.0;14.0;8.0;2.0;10.0;R5;58;Innenausstattung (spartanisch)
+Ford Percheron;Autos;4.0;3.0;3.0;2.0;2.0;3.0;3.0;4.0;15.0;6.0;3.0;6.0;R5;54;
+Ford Titan;Autos;2.0;3.0;2.0;1.0;1.0;4.0;4.0;2.0;16.0;8.0;2.0;8.0;TCT;184;Metamenschen-Anpassung
+GMC 442 Chameleon;Autos;1.0;4.0;2.0;1.0;1.0;4.0;4.0;1.0;10.0;4.0;1.0;4.0;R5;48;
+GMC Armadillo;Autos;1.0;3.0;4.0;2.0;2.0;4.0;4.0;1.0;13.0;10.0;2.0;6.0;R5;54;Geländeaufhängung
+GMC Banshee;Senkrechtstarter;4.0;6.0;6.0;4.0;4.0;8.0;8.0;4.0;20.0;18.0;6.0;12.0;SR5;465;Rigger-Schutzblase
+GMC Beachcraft Patroller;Nutzfahrzeuge;3.0;5.0;5.0;2.0;2.0;3.0;3.0;3.0;20.0;10.0;5.0;6.0;2050;210;
+GMC Bulldog Step-Van;LKWs;1.0;3.0;3.0;1.0;1.0;3.0;3.0;1.0;16.0;12.0;2.0;6.0;SR5;463;
+GMC Commercial D-Reihe;Nutzfahrzeuge;2.0;2.0;2.0;1.0;1.0;3.0;3.0;2.0;16.0;10.0;2.0;2.0;R5;63;Spezialausrüstung
+GMC Commercial D-Reihe Compact;Nutzfahrzeuge;2.0;2.0;2.0;1.0;1.0;3.0;3.0;2.0;12.0;8.0;2.0;2.0;R5;63;Spezialausrüstung
+GMC Commercial D-Reihe DD;Nutzfahrzeuge;2.0;2.0;2.0;1.0;1.0;3.0;3.0;2.0;20.0;12.0;2.0;2.0;R5;63;Spezialausrüstung
+GMC Commercial G-Reihe;Nutzfahrzeuge;2.0;2.0;2.0;1.0;1.0;3.0;3.0;2.0;18.0;12.0;3.0;2.0;R5;62;GridLink
+GMC Endurance (Van);LKWs;1.0;3.0;3.0;3.0;3.0;4.0;4.0;1.0;14.0;6.0;2.0;8.0;SS;186;
+GMC Escalade;Autos;3.0;3.0;3.0;2.0;2.0;4.0;4.0;3.0;16.0;10.0;4.0;6.0;R5;57;Innenausstattung (Oberklasse)
+GMC Gryphon;Senkrechtstarter;4.0;5.0;5.0;7.0;7.0;8.0;8.0;4.0;24.0;24.0;5.0;2.0;R5;103;Riggerinterface
+GMC Phoenix;Autos;2.0;4.0;2.0;3.0;3.0;6.0;6.0;2.0;10.0;6.0;3.0;4.0;R5;51;
+GMC Riverine;Schiffe;3.0;5.0;5.0;4.0;4.0;4.0;4.0;3.0;14.0;10.0;4.0;6.0;2050;210;
+GMC Riverine Military;Schiffe;6.0;4.0;4.0;3.0;3.0;5.0;5.0;6.0;20.0;20.0;6.0;8.0;R5;92;Innenausstattung (minimal)
+GMC Riverine Police;Schiffe;4.0;4.0;4.0;3.0;3.0;5.0;5.0;4.0;16.0;14.0;5.0;8.0;R5;92;Innenausstattung (minimal)
+GMC Riverine Security;Schiffe;4.0;4.0;4.0;3.0;3.0;5.0;5.0;4.0;16.0;12.0;4.0;8.0;R5;92;Innenausstattung (minimal)
+GMC Sidewinder (SUV);LKWs;2.0;4.0;3.0;2.0;2.0;4.0;4.0;2.0;10.0;6.0;2.0;6.0;SS;186;
+GMC Snatch'n'Grab;Große Drohnen;3.0;3.0;3.0;2.0;2.0;4.0;4.0;3.0;2.0;4.0;3.0;0.0;SS;179;Riggerinterface
+GMC Universe;Autos;3.0;3.0;3.0;1.0;1.0;4.0;3.0;3.0;14.0;8.0;2.0;16.0;R5;59;
+GMC-Banshee;Senkrechtstarter;4.0;6.0;6.0;4.0;4.0;8.0;8.0;4.0;20.0;18.0;6.0;12.0;2050;210;
+GM-Nissan Doberman;Mittlere Drohnen;3.0;5.0;5.0;1.0;1.0;3.0;3.0;3.0;4.0;4.0;3.0;0.0;SR5;466;Riggerinterface
+GTS Tower;Große Drohnen;2.0;2.0;2.0;1.0;1.0;1.0;1.0;2.0;4.0;6.0;2.0;0.0;R5;143;Standard-Drohnenhalterung (Mini)
+Harley-Davidson Nightmare;Motorräder;2.0;4.0;3.0;2.0;2.0;5.0;5.0;2.0;8.0;8.0;3.0;2.0;R5;45;
+Harley-Davidson Scorpion;Motorräder;1.0;4.0;3.0;2.0;2.0;4.0;4.0;1.0;8.0;9.0;2.0;1.0;SR5;462;Metamenschen-Anpassung
+Harley-Davidson Scorpion;Motorräder;1.0;4.0;3.0;2.0;2.0;4.0;4.0;1.0;8.0;9.0;2.0;1.0;2050;208;
+Holokonferenz-Drohne;Kleine Drohnen;3.0;3.0;3.0;1.0;1.0;2.0;2.0;3.0;2.0;3.0;3.0;0.0;CA;147;Riggerinterface
+Honda Artemis (Pkw);Autos;1.0;4.0;2.0;3.0;3.0;3.0;3.0;1.0;9.0;6.0;1.0;4.0;SS;186;
+Honda Spirit;Autos;1.0;3.0;2.0;2.0;2.0;4.0;4.0;1.0;8.0;6.0;2.0;2.0;SR5;463;
+Horizon CU³;Minidrohnen;2.0;4.0;4.0;1.0;1.0;1.0;1.0;2.0;1.0;0.0;3.0;0.0;R5;130;Riggerinterface
+Horizon CU³ Profiversion;Minidrohnen;4.0;4.0;4.0;1.0;1.0;1.0;1.0;4.0;1.0;0.0;3.0;0.0;R5;130;Riggerinterface
+Horizon Flying Eye;Minidrohnen;3.0;4.0;4.0;2.0;2.0;3.0;3.0;3.0;1.0;0.0;3.0;0.0;SR5;465;Riggerinterface
+Horizon Flying Eye mit Flashpack und Rauchgranate;Minidrohnen;3.0;4.0;4.0;2.0;2.0;3.0;3.0;3.0;1.0;0.0;3.0;0.0;SR5;465;Riggerinterface
+Horizon Little Buddy;Anthropomorphe Drohnen;2.0;2.0;2.0;1.0;1.0;1.0;1.0;2.0;1.0;0.0;2.0;0.0;R5;146;Drohnenarm
+Horizon Mini-Zep;Kleine Drohnen;2.0;2.0;2.0;0.0;0.0;0.0;0.0;2.0;2.0;0.0;2.0;0.0;R5;132;Riggerinterface
+Horizon NoizQuito;Mikrodrohnen;3.0;4.0;4.0;2.0;2.0;3.0;3.0;3.0;1.0;0.0;3.0;0.0;R5;128;Lautsprecher
+Horizon-Doble Revolution;Motorräder;2.0;5.0;3.0;3.0;3.0;4.0;4.0;2.0;6.0;6.0;2.0;1.0;R5;42;Gyrostabilisator
+Hughes Airstar;Rotormaschinen;2.0;4.0;4.0;3.0;3.0;4.0;4.0;2.0;16.0;8.0;4.0;6.0;2050;210;
+Hughes Stallion WK-4;Rotormaschinen;4.0;5.0;5.0;4.0;4.0;5.0;5.0;4.0;16.0;16.0;4.0;8.0;R5;95;
+Hughes Stallion WK-4 (2050);Rotormaschinen;2.0;5.0;5.0;3.0;3.0;4.0;4.0;2.0;16.0;10.0;4.0;6.0;2050;210;
+Hyundai Equus;Autos;2.0;3.0;3.0;2.0;2.0;4.0;3.0;2.0;12.0;10.0;3.0;4.0;R5;52;Innenausstattung (spartanisch)
+Hyundai Shin-Hyung;Autos;1.0;5.0;4.0;3.0;3.0;6.0;6.0;1.0;10.0;6.0;2.0;4.0;SR5;463;
+Jägerdrohne;Mittlere Drohnen;3.0;5.0;5.0;3.0;3.0;5.0;5.0;3.0;4.0;5.0;3.0;0.0;2050;212;Riggerinterface
+Jeep Trailblazer;Autos;1.0;3.0;4.0;2.0;2.0;3.0;3.0;1.0;12.0;6.0;2.0;4.0;R5;54;Geländeaufhängung
+Jena Robotik Mewero (Minidrohne);Minidrohnen;2.0;3.0;3.0;1.0;1.0;1.0;1.0;2.0;1.0;0.0;3.0;0.0;SOTG;23;Riggerinterface
+Jena Robotnik Araneus;Minidrohnen;2.0;4.0;4.0;1.0;1.0;1.0;1.0;2.0;1.0;0.0;3.0;0.0;SAG;59;Geckofüße (Drohne)
+Jena Robotnik Pilalux;Minidrohnen;2.0;4.0;4.0;1.0;1.0;2.0;2.0;2.0;1.0;0.0;3.0;0.0;SAG;58;Flash-Pak
+Jena Robotnik Tegenaria;Minidrohnen;2.0;4.0;4.0;1.0;1.0;1.0;1.0;2.0;1.0;0.0;3.0;0.0;SAG;59;Geckofüße (Drohne)
+Kamow Ka-226 Kasatka;Rotormaschinen;2.0;3.0;3.0;3.0;3.0;4.0;4.0;2.0;14.0;6.0;2.0;6.0;SAG;55;Multifuel-Motor
+Kamow Ka-226 Sergej;Rotormaschinen;1.0;2.0;2.0;3.0;3.0;3.0;3.0;1.0;16.0;6.0;1.0;6.0;SAG;55;Multifuel-Motor
+Kawasaki Manta Ray;Schiffe;1.0;4.0;4.0;3.0;3.0;5.0;5.0;1.0;9.0;6.0;1.0;3.0;R5;81;
+Kawasaki Stingray;Schiffe;1.0;5.0;5.0;3.0;3.0;5.0;5.0;1.0;8.0;6.0;1.0;2.0;R5;81;
+Knight Errant P5;Kleine Drohnen;3.0;4.0;2.0;2.0;2.0;6.0;6.0;3.0;2.0;0.0;2.0;0.0;R5;133;Riggerinterface
+Knight-Errant-Streifenwagen (Honda Artemis), Nachahmung;Sicherheit/Polizei/Militär;2.0;6.0;3.0;5.0;5.0;5.0;5.0;2.0;14.0;9.0;2.0;6.0;SS;187;
+Krime Barco de Pesca;Schiffe;1.0;2.0;4.0;2.0;2.0;1.0;7.0;1.0;18.0;6.0;1.0;6.0;KK;38;Amenities (Street)
+Krime Bazoo Basic;Autos;1.0;2.0;1.0;1.0;1.0;3.0;3.0;1.0;9.0;5.0;1.0;4.0;KK;31;Amenities (Street)
+Krime Bazoo Chrome;Autos;1.0;2.0;1.0;2.0;2.0;5.0;5.0;1.0;9.0;5.0;1.0;4.0;KK;31;Amenities (Street)
+Krime Bazoo Redline;Autos;1.0;2.0;1.0;2.0;2.0;5.0;5.0;1.0;9.0;5.0;1.0;4.0;KK;31;Amenities (Street)
+Krime Big Bazoo Basic;Autos;1.0;1.0;3.0;1.0;1.0;3.0;3.0;1.0;9.0;6.0;1.0;4.0;KK;31;Amenities (Street)
+Krime Big Bazoo Chrome;Autos;1.0;1.0;3.0;2.0;2.0;5.0;5.0;1.0;9.0;6.0;1.0;4.0;KK;31;Amenities (Street)
+Krime Big Bazoo Redline;Autos;1.0;1.0;3.0;2.0;2.0;5.0;5.0;1.0;9.0;6.0;1.0;4.0;KK;31;Amenities (Street)
+Krime DeTruck Sports Truck;LKWs;3.0;4.0;4.0;1.0;1.0;3.0;3.0;3.0;16.0;7.0;2.0;3.0;KK;35;Innenausstattung (Mittelklasse)
+Krime Dix Prime Mover;LKWs;4.0;2.0;3.0;1.0;1.0;4.0;4.0;4.0;21.0;15.0;4.0;2.0;KK;37;Metamenschen-Anpassung
+Krime Euskaldunak Tankette;Sicherheit/Polizei/Militär;4.0;4.0;4.0;2.0;2.0;4.0;4.0;4.0;7.0;20.0;4.0;1.0;KK;41;Amenities (Street)
+Krime Prowler;Autos;3.0;3.0;3.0;3.0;3.0;6.0;6.0;3.0;14.0;12.0;3.0;4.0;KK;34;Schießscharten
+Krime Runner;Minidrohnen;4.0;1.0;1.0;1.0;1.0;1.0;1.0;4.0;2.0;1.0;1.0;0.0;KK;28;Riggerinterface
+Krime SV-2 'Crashtest';Autos;3.0;3.0;1.0;2.0;2.0;4.0;4.0;3.0;11.0;9.0;3.0;2.0;KK;32;Lebenserhaltungssystem
+Krime Wageslave PMV;Autos;1.0;2.0;1.0;2.0;2.0;1.0;1.0;1.0;4.0;5.0;1.0;1.0;KK;30;Amenities (Street)
+Krupp Minion;Mittlere Drohnen;3.0;3.0;3.0;1.0;1.0;2.0;2.0;3.0;4.0;6.0;3.0;0.0;SAG;64;Suchscheinwerfer (Drohne)
+Lear-Cessna Platinum 1;Starrflügler;3.0;4.0;4.0;4.0;4.0;5.0;5.0;3.0;20.0;6.0;2.0;8.0;2050;210;
+Link-Bus;LKWs;2.0;2.0;2.0;1.0;1.0;3.0;3.0;2.0;20.0;8.0;2.0;8.0;SHB3;218;Entfernung manueller Steuerung
+Lockheed Optic-X2;Kleine Drohnen;3.0;4.0;4.0;3.0;3.0;4.0;4.0;3.0;2.0;2.0;3.0;0.0;SR5;466;Signaturmaskierung
+Lohne-Star-Streifenwagen (Chrysler-Nissan Journey), Nachahmung;Sicherheit/Polizei/Militär;2.0;6.0;5.0;5.0;5.0;5.0;5.0;2.0;14.0;8.0;2.0;6.0;SS;187;
+Lone Star Castle Guard;Kleine Drohnen;3.0;4.0;2.0;1.0;1.0;1.0;1.0;3.0;2.0;6.0;2.0;0.0;R5;133;Riggerinterface
+Lone Star SecureSector Mk2;Kleine Drohnen;3.0;5.0;5.0;2.0;2.0;4.0;4.0;3.0;4.0;4.0;3.0;0.0;TSG;29;Suchscheinwerfer
+Luftschiffbau LZP-2070;Luftschiffe;5.0;4.0;4.0;3.0;3.0;2.0;2.0;5.0;12.0;6.0;4.0;6.0;R5;107;
+Lürssen Möbius;Schiffe;6.0;3.0;3.0;2.0;2.0;3.0;3.0;6.0;36.0;14.0;5.0;22.0;R5;89;Innenausstattung (Luxus)
+Mack Hellhound;LKWs;3.0;3.0;2.0;1.0;1.0;4.0;3.0;3.0;20.0;15.0;3.0;2.0;R5;60;Innenausstattung (spartanisch)
+Maersk Shipyards Wavecutter MPAC;Schiffe;4.0;5.0;5.0;3.0;3.0;5.0;5.0;4.0;25.0;25.0;5.0;12.0;SL;131;ECM
+MCT Fly-Spy;Minidrohnen;3.0;4.0;4.0;2.0;2.0;3.0;3.0;3.0;1.0;0.0;3.0;0.0;SR5;466;Realistisches Aussehen
+MCT Gun Turret;Kleine Drohnen;3.0;0.0;0.0;0.0;0.0;0.0;0.0;3.0;2.0;6.0;2.0;0.0;R5;133;Stationär (Drohne)
+MCT Guppy;Mikrodrohnen;2.0;2.0;2.0;1.0;1.0;1.0;1.0;2.0;1.0;0.0;2.0;0.0;HAMG;173;Riggerinterface
+MCT Kenchiku-Kikai;Anthropomorphe Drohnen;2.0;2.0;2.0;1.0;1.0;2.0;2.0;2.0;5.0;3.0;2.0;0.0;R5;147;Drohnenarm
+MCT Malakim;Große Drohnen;4.0;3.0;3.0;2.0;2.0;6.0;6.0;4.0;4.0;9.0;4.0;0.0;R5;143;Riggerinterface
+MCT Seven (Dirty);Kleine Drohnen;1.0;2.0;4.0;1.0;1.0;2.0;2.0;1.0;1.0;0.0;1.0;0.0;R5;134;Riggerinterface
+MCT Seven (Hovers);Kleine Drohnen;1.0;3.0;3.0;1.0;1.0;1.0;1.0;1.0;1.0;0.0;1.0;0.0;R5;134;Riggerinterface
+MCT Seven (Quad);Kleine Drohnen;1.0;4.0;4.0;1.0;1.0;1.0;1.0;1.0;1.0;0.0;1.0;0.0;R5;134;Riggerinterface
+MCT Seven (Soars);Kleine Drohnen;1.0;3.0;3.0;1.0;1.0;2.0;2.0;1.0;1.0;0.0;1.0;0.0;R5;134;Riggerinterface
+MCT Seven (Swims);Kleine Drohnen;1.0;3.0;3.0;1.0;1.0;2.0;2.0;1.0;1.0;0.0;1.0;0.0;R5;134;Riggerinterface
+MCT Seven (Treads);Kleine Drohnen;1.0;3.0;3.0;1.0;1.0;2.0;2.0;1.0;1.0;0.0;1.0;0.0;R5;134;Riggerinterface
+MCT Seven (Wheelie);Kleine Drohnen;1.0;4.0;2.0;1.0;1.0;2.0;2.0;1.0;1.0;0.0;1.0;0.0;R5;134;Riggerinterface
+MCT Tunneler;Mittlere Drohnen;2.0;3.0;3.0;0.0;0.0;0.0;0.0;2.0;3.0;6.0;2.0;0.0;R5;140;Riggerinterface
+MCT-Nissan Roto-Drohne;Mittlere Drohnen;3.0;4.0;4.0;2.0;2.0;4.0;4.0;3.0;4.0;4.0;3.0;0.0;SR5;466;Riggerinterface
+Medusa-Extensions;Minidrohnen;1.0;1.0;1.0;0.0;0.0;0.0;0.0;1.0;1.0;0.0;1.0;0.0;CA;147;Riggerinterface
+Mercedes 250 Classic;Autos;2.0;4.0;3.0;2.0;2.0;3.0;3.0;2.0;11.0;7.0;2.0;5.0;SAG;48;Diebstahlsicherung
+Mercedes Click;Autos;1.0;4.0;3.0;3.0;3.0;5.0;5.0;1.0;10.0;5.0;2.0;4.0;SAG;49;Metamenschen-Anpassung
+Mercedes Paladin;Autos;3.0;5.0;3.0;2.0;2.0;4.0;4.0;3.0;16.0;14.0;4.0;8.0;SAG;50;Diebstahlsicherung
+Mercedes-Benz CityMog / Dodge City Basis Modell;Autos;2.0;5.0;4.0;1.0;1.0;3.0;3.0;2.0;18.0;10.0;2.0;3.0;SHB;42;
+Mercedes-Benz CityMog / Dodge City CM Elite;Autos;3.0;5.0;3.0;1.0;1.0;3.0;3.0;3.0;18.0;12.0;4.0;12.0;SHB;42;
+Mercedes-Benz CityMog / Dodge City CM Traveller (mit Pritsche);Autos;3.0;5.0;4.0;1.0;1.0;3.0;3.0;3.0;18.0;10.0;2.0;20.0;SHB;42;
+Mercedes-Benz CityMog / Dodge City CM-X (mit Pritsche);Autos;2.0;5.0;4.0;1.0;1.0;3.0;3.0;2.0;18.0;10.0;2.0;5.0;SHB;42;
+Mercedes-Benz Tornado;Autos;1.0;4.0;4.0;2.0;2.0;4.0;4.0;1.0;15.0;12.0;2.0;3.0;SHB;42;
+Mercedes-Benz Tornado Crew Modell;Autos;1.0;3.0;3.0;2.0;2.0;4.0;4.0;1.0;16.0;12.0;2.0;6.0;SHB;42;
+Mercedes-Benz Tornado Security Modell;Autos;3.0;4.0;3.0;2.0;2.0;4.0;4.0;3.0;16.0;14.0;3.0;5.0;SHB;42;
+Mercury Comet;Autos;2.0;4.0;4.0;2.0;2.0;3.0;3.0;2.0;11.0;6.0;2.0;4.0;R5;49;
+Mercury Comet Cruiser;Autos;1.0;4.0;3.0;2.0;2.0;3.0;3.0;1.0;14.0;11.0;2.0;5.0;SHB;42;
+Mesametric Kodiak;Riesige Drohnen;2.0;2.0;4.0;1.0;1.0;2.0;2.0;2.0;6.0;12.0;2.0;0.0;R5;145;Drohnenarm
+Messerschmitt-Kawasaki Heuschrecke 2;Mittlere Drohnen;3.0;4.0;4.0;2.0;2.0;3.0;3.0;3.0;5.0;6.0;4.0;0.0;SAG;65;Riggerinterface
+Messerschmitt-Kawasaki Hugin;Kleine Drohnen;2.0;4.0;4.0;1.0;1.0;2.0;2.0;2.0;2.0;0.0;2.0;0.0;SAG;60;Riggerinterface
+Messerschmitt-Kawasaki Jagdhund;Große Drohnen;3.0;5.0;5.0;3.0;3.0;4.0;4.0;3.0;6.0;10.0;3.0;0.0;SAG;68;Riggerinterface
+Messerschmitt-Kawasaki Jagdschrecke;Große Drohnen;3.0;5.0;5.0;2.0;2.0;4.0;4.0;3.0;6.0;8.0;3.0;0.0;SAG;69;ECM
+Messerschmitt-Kawasaki Libelle;Kleine Drohnen;3.0;5.0;5.0;1.0;1.0;2.0;2.0;3.0;2.0;1.0;4.0;0.0;SAG;61;Schnellmontage (Drohne)
+Messerschmitt-Kawasaki Munin;Kleine Drohnen;2.0;4.0;4.0;1.0;1.0;2.0;2.0;2.0;2.0;0.0;2.0;0.0;SAG;60;Realistisches Aussehen
+Microweave Spinnendrohne;Minidrohnen;4.0;4.0;4.0;1.0;1.0;1.0;1.0;4.0;1.0;0.0;2.0;0.0;CA;147;Riggerinterface
+Mitsubishi Nightsky;Autos;3.0;4.0;3.0;2.0;2.0;4.0;4.0;3.0;15.0;15.0;5.0;8.0;SR5;463;Innenausstattung (Luxus)
+Mitsubishi Nightsky;Autos;3.0;4.0;3.0;2.0;2.0;4.0;4.0;3.0;15.0;15.0;5.0;8.0;2050;208;
+Mitsubishi Runabout;Autos;1.0;3.0;2.0;2.0;2.0;4.0;4.0;1.0;8.0;6.0;2.0;2.0;2050;208;
+Mitsubishi Waterbug;Schiffe;1.0;6.0;6.0;2.0;2.0;3.0;3.0;1.0;8.0;4.0;0.0;1.0;R5;83;
+Mitsubishi Waveskipper;Schiffe;1.0;5.0;5.0;2.0;2.0;3.0;3.0;1.0;10.0;4.0;0.0;2.0;R5;83;
+Mitsuhama Akiyama;Anthropomorphe Drohnen;3.0;5.0;5.0;2.0;2.0;3.0;3.0;3.0;4.0;6.0;3.0;0.0;HT;190;Chamäleonfarbe
+Mitsuhama FED-11;Große Drohnen;2.0;2.0;2.0;1.0;1.0;1.0;1.0;2.0;4.0;4.0;4.0;0.0;SAG;70;SkyGuide (Drohne)
+Mitsuhama Honson;Anthropomorphe Drohnen;3.0;3.0;3.0;2.0;2.0;2.0;2.0;3.0;5.0;6.0;3.0;0.0;SAG;72;Tastsensoren
+MK Harbor Sentry;Schiffe;3.0;3.0;3.0;4.0;4.0;6.0;6.0;3.0;15.0;12.0;5.0;6.0;HAMG;176;
+MK R/Evolution;Motorräder;2.0;4.0;4.0;3.0;2.0;5.0;3.0;2.0;5.0;6.0;2.0;1.0;HAMG;174;
+Modifizierte Dassault Hausmeisterdrohne;Große Drohnen;2.0;2.0;2.0;2.0;2.0;2.0;2.0;2.0;10.0;2.0;2.0;0.0;SS;179;Riggerinterface
+Modifizierte Renraku Manservant-3;Anthropomorphe Drohnen;3.0;2.0;2.0;2.0;2.0;2.0;2.0;3.0;3.0;5.0;3.0;0.0;SS;180;Drohnenarm
+Morgan Cutlass;Schiffe;3.0;5.0;5.0;2.0;2.0;4.0;4.0;3.0;16.0;10.0;5.0;6.0;SR5;454;
+Mostrans KVP-28;Nutzfahrzeuge;4.0;2.0;2.0;1.0;1.0;3.0;3.0;4.0;18.0;12.0;3.0;2.0;R5;64;Sekundärantrieb (Hovercraft)
+Mostrans Minsk;Nutzfahrzeuge;4.0;2.0;2.0;1.0;1.0;3.0;3.0;4.0;16.0;10.0;3.0;2.0;R5;64;
+Munitionsdrohne;Kleine Drohnen;3.0;2.0;2.0;2.0;2.0;2.0;2.0;3.0;2.0;4.0;2.0;0.0;HT;189;Riggerinterface
+Nachladedrohne;Mittlere Drohnen;3.0;4.0;4.0;2.0;2.0;3.0;3.0;3.0;3.0;4.0;2.0;0.0;HT;190;Riggerinterface
+NeoNET Avenging Angel;Riesige Drohnen;6.0;3.0;3.0;2.0;2.0;6.0;6.0;6.0;6.0;12.0;6.0;0.0;R5;145;Riggerinterface
+NeoNET Juggernaught;Anthropomorphe Drohnen;3.0;3.0;3.0;1.0;1.0;4.0;4.0;3.0;6.0;12.0;3.0;0.0;R5;147;Drohnenarm
+NeoNET Prarie Dog;Kleine Drohnen;3.0;2.0;4.0;1.0;1.0;2.0;2.0;3.0;2.0;3.0;4.0;0.0;R5;134;Riggerinterface
+Nissan Hauler;Autos;2.0;3.0;3.0;1.0;1.0;4.0;3.0;2.0;16.0;8.0;2.0;8.0;R5;56;
+Nissan Hound;Rotormaschinen;2.0;5.0;5.0;3.0;3.0;4.0;4.0;2.0;16.0;16.0;4.0;12.0;SR5;464;
+Nordseewerke Thetis;Hovercraft;4.0;2.0;2.0;1.0;1.0;3.0;3.0;4.0;18.0;10.0;3.0;50.0;SAG;51;Innenausstattung (Mittelklasse)
+Northrup PRC-42B Wasp;Rotormaschinen;3.0;5.0;5.0;3.0;3.0;5.0;5.0;3.0;10.0;8.0;3.0;1.0;2050;210;
+Northrup PRC-44B Yellowjacket;Rotormaschinen;3.0;5.0;5.0;3.0;3.0;5.0;5.0;3.0;10.0;10.0;3.0;1.0;2050;210;
+Northrup Wasp;Rotormaschinen;3.0;5.0;5.0;3.0;3.0;5.0;5.0;3.0;10.0;8.0;3.0;1.0;SR5;465;
+Okulardrohne;Minidrohnen;3.0;4.0;4.0;2.0;2.0;3.0;3.0;3.0;1.0;0.0;3.0;0.0;SR5;453;Riggerinterface
+Omni Motors Omnibus;Nutzfahrzeuge;2.0;2.0;2.0;1.0;1.0;3.0;3.0;2.0;18.0;10.0;2.0;53.0;R5;62;GridLink
+oTTo;Autos;2.0;3.0;2.0;1.0;1.0;3.0;3.0;2.0;12.0;13.0;2.0;4.0;SHB3;216;Entfernung manueller Steuerung
+Patroullienfahrzeugdrohne;Große Drohnen;3.0;5.0;5.0;2.0;2.0;4.0;4.0;3.0;6.0;12.0;3.0;0.0;2050;212;Riggerinterface
+Plex-Cab;Autos;2.0;3.0;2.0;2.0;2.0;3.0;3.0;2.0;9.0;6.0;2.0;2.0;SHB3;215;Entfernung manueller Steuerung
+Porsche-Dornier Aqua 503;Schiffe;2.0;5.0;5.0;3.0;3.0;5.0;5.0;2.0;8.0;6.0;3.0;6.0;SOTG;18;Innenausstattung (minimal)
+Pratt & Whitney Sundowner;Kleine Drohnen;2.0;3.0;3.0;1.0;1.0;4.0;4.0;2.0;2.0;0.0;2.0;0.0;R5;134;Riggerinterface
+Proteus Krake;Kleine Drohnen;4.0;5.0;5.0;4.0;4.0;3.0;3.0;4.0;2.0;2.0;3.0;0.0;R5;136;Riggerinterface
+Proteus Lamprey;U-Boot;1.0;3.0;3.0;1.0;1.0;2.0;2.0;1.0;6.0;6.0;3.0;4.0;SR5;464;Automatische-Drohnenhalterung (Mittel)
+Proteus Nachtaal;Minidrohnen;3.0;5.0;5.0;3.0;3.0;3.0;3.0;3.0;1.0;1.0;4.0;0.0;HAMG;173;Riggerinterface
+Renault-Fiat Fokker Tundra-9;Starrflügler;3.0;2.0;2.0;3.0;3.0;4.0;4.0;3.0;20.0;10.0;3.0;24.0;SR5;464;Sekundärantrieb (Amphibisch, Oberfläche)
+Renault-Fiat FunOne;Autos;2.0;3.0;1.0;1.0;1.0;3.0;3.0;2.0;6.0;4.0;1.0;2.0;R5;47;Metamenschen-Anpassung
+Renegade Works Mothership;Luftschiffe;3.0;3.0;3.0;3.0;3.0;3.0;3.0;3.0;10.0;5.0;4.0;1.0;R5;105;Metamenschen-Anpassung
+Renraku Dove;Kleine Drohnen;2.0;4.0;4.0;1.0;1.0;2.0;2.0;2.0;2.0;0.0;2.0;0.0;R5;136;Riggerinterface
+Renraku Gerbil;Minidrohnen;2.0;4.0;2.0;1.0;1.0;2.0;2.0;2.0;1.0;0.0;2.0;0.0;R5;130;Riggerinterface
+Renraku Jardinero;Kleine Drohnen;2.0;2.0;4.0;1.0;1.0;1.0;1.0;2.0;2.0;0.0;2.0;0.0;R5;136;Riggerinterface
+Renraku Job-a-Mat;Kleine Drohnen;2.0;0.0;0.0;0.0;0.0;0.0;0.0;2.0;2.0;0.0;2.0;0.0;R5;137;Stationär (Drohne)
+Renraku LEBD-2;Mittlere Drohnen;4.0;4.0;4.0;1.0;1.0;2.0;2.0;4.0;3.0;9.0;4.0;0.0;R5;140;Riggerinterface
+Renraku Pelican;Kleine Drohnen;2.0;4.0;4.0;1.0;1.0;2.0;2.0;2.0;2.0;0.0;2.0;0.0;R5;137;Riggerinterface
+Rolls-Royce Phaeton;Autos;3.0;5.0;3.0;2.0;2.0;5.0;3.0;3.0;16.0;12.0;4.0;10.0;R5;52;Innenausstattung (Luxus)
+Rover Modell 2072;LKWs;2.0;5.0;5.0;2.0;2.0;4.0;4.0;2.0;15.0;12.0;4.0;6.0;SR5;464;
+Ruhrmetal Wolf II;Sicherheit/Polizei/Militär;2.0;3.0;3.0;2.0;2.0;3.0;3.0;2.0;24.0;12.0;2.0;6.0;R5;77;Lebenserhaltungssystem
+Ruhrmetall Hovawart;Kleine Drohnen;2.0;3.0;3.0;3.0;3.0;3.0;3.0;2.0;2.0;2.0;4.0;0.0;SOTG;19;Riggerinterface
+Ruhrmetall Murmillo;Mittlere Drohnen;2.0;3.0;3.0;1.0;1.0;1.0;1.0;2.0;5.0;12.0;1.0;0.0;SAG;66;Flash-Pak
+Ruhrmetall Skarabäus;Kleine Drohnen;3.0;4.0;2.0;2.0;2.0;4.0;4.0;3.0;3.0;6.0;2.0;0.0;SAG;62;Riggerinterface
+Ruhrmetall Wolfspinne 8V2;Große Drohnen;4.0;5.0;5.0;1.0;1.0;1.0;1.0;4.0;8.0;14.0;4.0;0.0;SAG;71;Geckofüße (Drohne)
+SAAB Dynamit;Autos;2.0;5.0;1.0;3.0;3.0;9.0;9.0;2.0;10.0;3.0;3.0;2.0;R5;50;
+SAAB Gladius 998 ti;Autos;3.0;7.0;3.0;4.0;4.0;9.0;9.0;3.0;10.0;5.0;5.0;2.0;R5;50;Riggerinterface
+Saab-Thyssen Bloodhound;Kleine Drohnen;2.0;3.0;3.0;1.0;1.0;1.0;1.0;2.0;2.0;0.0;4.0;0.0;R5;136;Riggerinterface
+Saeder-Krupp Executive Secretary;Anthropomorphe Drohnen;4.0;4.0;4.0;2.0;2.0;4.0;4.0;4.0;4.0;3.0;4.0;0.0;R5;148;Drohnenarm
+Saeder-Krupp Konstructors;Nutzfahrzeuge;4.0;2.0;2.0;1.0;1.0;3.0;3.0;4.0;24.0;18.0;3.0;2.0;R5;64;Spezialausrüstung
+Saeder-Krupp LT-21 (Lieferwagen);LKWs;2.0;2.0;1.0;1.0;1.0;2.0;2.0;2.0;15.0;7.0;2.0;2.0;SS;186;
+Saeder-Krupp MK-17D Neptune;Große Drohnen;4.0;2.0;2.0;1.0;1.0;3.0;3.0;4.0;5.0;3.0;3.0;0.0;R5;143;Unterwasserfähigkeit (Drohne)
+Saeder-Krupp-Bentley Concordat;Autos;2.0;5.0;4.0;2.0;2.0;5.0;5.0;2.0;12.0;12.0;4.0;4.0;SR5;463;
+Samuvani-Criscraft Otter;Schiffe;2.0;4.0;4.0;2.0;2.0;3.0;3.0;2.0;12.0;6.0;2.0;8.0;SR5;464;
+Samuvani-Criscraft Otter;Schiffe;2.0;4.0;4.0;2.0;2.0;3.0;3.0;2.0;12.0;6.0;2.0;8.0;2050;208;
+Schiebel Robotic Crust Mark II;Kleine Drohnen;2.0;3.0;3.0;1.0;1.0;1.0;1.0;2.0;2.0;2.0;4.0;0.0;SAG;63;Geckofüße (Drohne)
+Sea Ray Cottonmouth;Schiffe;3.0;5.0;5.0;4.0;4.0;7.0;7.0;3.0;8.0;4.0;3.0;4.0;R5;80;Innenausstattung (minimal)
+Sendanko Marlin;Schiffe;1.0;2.0;2.0;2.0;2.0;2.0;2.0;1.0;14.0;4.0;2.0;6.0;2050;208;
+Shiawase Caduceus 'CAD' 7;Anthropomorphe Drohnen;2.0;4.0;4.0;1.0;1.0;2.0;2.0;2.0;5.0;3.0;1.0;0.0;BB;23;Drohnenbein
+Shiawase i-Doll;Anthropomorphe Drohnen;3.0;3.0;3.0;1.0;1.0;3.0;3.0;3.0;3.0;0.0;3.0;0.0;R5;148;Synthetischer Drohnenarm
+Shiawase Kanmushi;Mikrodrohnen;3.0;4.0;4.0;1.0;1.0;2.0;2.0;3.0;0.0;0.0;3.0;0.0;SR5;465;Geckofüße
+Shiawase Motors Shuriken;Motorräder;1.0;5.0;2.0;3.0;3.0;6.0;6.0;1.0;5.0;5.0;2.0;1.0;SAG;44;Diebstahlsicherung
+Siemens FWD Screamer;Mittlere Drohnen;3.0;4.0;4.0;2.0;2.0;1.0;1.0;3.0;3.0;6.0;4.0;0.0;SAG;67;Suchscheinwerfer (Drohne)
+Sikorsky-Bell Condor;Rotormaschinen;2.0;4.0;4.0;2.0;2.0;4.0;4.0;2.0;12.0;9.0;6.0;2.0;NF;174;
+Sikorsky-Bell Mikroskimmer;Mikrodrohnen;3.0;3.0;3.0;1.0;1.0;3.0;3.0;3.0;0.0;0.0;3.0;0.0;SR5;465;Riggerinterface
+S-K Aerospace SKA-008;Rotormaschinen;4.0;6.0;6.0;8.0;8.0;5.0;5.0;4.0;16.0;18.0;4.0;12.0;R5;98;Riggerinterface
+Sony Goldfish;Mikrodrohnen;2.0;2.0;4.0;1.0;1.0;1.0;1.0;2.0;0.0;0.0;2.0;0.0;R5;129;Unterwasserfähigkeit (Drohne)
+Spähdrohne;Mittlere Drohnen;3.0;4.0;4.0;3.0;3.0;5.0;5.0;3.0;4.0;2.0;2.0;0.0;2050;212;Riggerinterface
+Sparring-Drohne;Anthropomorphe Drohnen;3.0;3.0;3.0;2.0;2.0;2.0;2.0;3.0;4.0;2.0;3.0;0.0;HT;190;Drohnenarm
+Steel Lynx;Große Drohnen;3.0;5.0;5.0;2.0;2.0;4.0;4.0;3.0;6.0;12.0;3.0;0.0;SR5;466;Riggerinterface
+Sun Tracker Lake King;Schiffe;1.0;2.0;2.0;2.0;2.0;3.0;3.0;1.0;14.0;8.0;1.0;8.0;R5;90;
+Suzuki Mirage;Motorräder;1.0;5.0;3.0;3.0;3.0;6.0;6.0;1.0;5.0;6.0;2.0;1.0;SR5;462;
+SWAT-Einsatzfahrzeug/Mobile Kommandozentrale (Ares Roadmaster), Nachahmung;Sicherheit/Polizei/Militär;5.0;5.0;5.0;2.0;2.0;5.0;5.0;5.0;27.0;27.0;5.0;12.0;SS;187;
+Tata Hotspur;Autos;2.0;4.0;5.0;3.0;3.0;6.0;6.0;2.0;16.0;12.0;2.0;2.0;R5;53;Geländeaufhängung
+Telestrian Industries Shamus;Kleine Drohnen;3.0;3.0;3.0;1.0;1.0;3.0;3.0;3.0;4.0;4.0;8.0;0.0;R5;138;Riggerinterface
+Thundercloud Morgan;Autos;0.0;3.0;5.0;3.0;3.0;4.0;4.0;0.0;14.0;6.0;0.0;2.0;R5;52;Geländeaufhängung
+Thundercloud Mustang;Motorräder;1.0;4.0;4.0;2.0;2.0;3.0;3.0;1.0;8.0;6.0;1.0;2.0;R5;46;Smartreifen
+THW MzKW C;Autos;3.0;5.0;5.0;2.0;2.0;4.0;4.0;3.0;14.0;10.0;5.0;5.0;SOTG;16;Diebstahlsicherung
+Toyota Elite;Autos;2.0;5.0;4.0;2.0;2.0;5.0;5.0;2.0;12.0;12.0;4.0;4.0;2050;208;
+Toyota Gopher;LKWs;1.0;5.0;5.0;2.0;2.0;4.0;4.0;1.0;14.0;10.0;2.0;3.0;SR5;463;Geländeaufhängung
+Toyota Talon;Autos;2.0;4.0;3.0;2.0;2.0;4.0;4.0;2.0;12.0;6.0;2.0;5.0;R5;55;
+Transys Office Maid;Mittlere Drohnen;4.0;3.0;3.0;2.0;2.0;3.0;3.0;4.0;3.0;0.0;3.0;0.0;SS;179;Drohnenarm
+Transys Steed;Mittlere Drohnen;2.0;4.0;2.0;1.0;1.0;1.0;1.0;2.0;3.0;0.0;4.0;0.0;R5;141;Riggerinterface
+Überwachungsdrohne;Mittlere Drohnen;3.0;4.0;4.0;2.0;2.0;4.0;4.0;3.0;4.0;4.0;3.0;0.0;2050;212;Riggerinterface
+UCAS-Regierungsfahrzeug (GMC Sidewinder (SUV)), Nachahmung;Sicherheit/Polizei/Militär;3.0;6.0;5.0;3.0;3.0;6.0;6.0;3.0;15.0;9.0;3.0;9.0;SS;187;
+Ultramarine Kingfisher;Schiffe;3.0;3.0;3.0;2.0;2.0;3.0;3.0;3.0;16.0;12.0;4.0;6.0;R5;92;Innenausstattung (minimal)
+Universal Hovercraft Minnesota;Nutzfahrzeuge;3.0;4.0;4.0;2.0;2.0;4.0;4.0;3.0;14.0;9.0;3.0;14.0;R5;65;
+Vodyanoy Sturm-Hovercraft;Nutzfahrzeuge;1.0;3.0;3.0;3.0;3.0;4.0;4.0;1.0;16.0;16.0;2.0;10.0;R5;65;Innenausstattung (minimal)
+Volkswagen MultyCity;Autos;1.0;3.0;2.0;1.0;1.0;4.0;4.0;1.0;12.0;4.0;1.0;3.0;SHB;42;
+Volkswagen Urban Allrounder;Autos;2.0;3.0;3.0;1.0;1.0;3.0;3.0;2.0;13.0;6.0;2.0;5.0;SHB;42;
+Vulkan Delfin RQ-11;U-Boot;1.0;2.0;2.0;1.0;1.0;2.0;2.0;1.0;12.0;10.0;1.0;7.0;HAMG;175;
+Vulkan Electronaut;U-Boot;4.0;3.0;3.0;1.0;1.0;3.0;3.0;4.0;12.0;10.0;4.0;2.0;SR5;464;
+VW Freya;Nutzfahrzeuge;3.0;3.0;3.0;3.0;3.0;4.0;4.0;3.0;14.0;8.0;2.0;3.0;SAG;54;Fahrgastsicherheitssystem
+VW Urban Clipper;LKWs;2.0;3.0;3.0;1.0;1.0;3.0;3.0;2.0;13.0;6.0;4.0;1.0;SHB3;217;Riggerinterface
+Yamaha Growler;Motorräder;1.0;4.0;5.0;1.0;1.0;3.0;4.0;1.0;5.0;5.0;1.0;1.0;SR5;462;Geländeaufhängung
+Yamaha Kaburaya;Motorräder;1.0;5.0;3.0;3.0;3.0;6.0;6.0;1.0;5.0;4.0;2.0;1.0;R5;44;
+Yamaha Nodachi;Motorräder;2.0;4.0;3.0;2.0;2.0;5.0;5.0;2.0;8.0;9.0;2.0;2.0;R5;45;
+Yamaha Rapier;Motorräder;1.0;5.0;3.0;3.0;3.0;6.0;6.0;1.0;5.0;6.0;1.0;1.0;2050;208;
+Yongkang Gala Trinity;Schiffe;1.0;5.0;5.0;3.0;3.0;6.0;6.0;1.0;10.0;6.0;1.0;3.0;SR5;464;Schmuggelfrachtraum
+Yongkang Water Spirit;Schiffe;2.0;5.0;5.0;1.0;1.0;3.0;3.0;2.0;6.0;3.0;2.0;6.0;HAMG;177;
+ZET Commando;Autos;4.0;3.0;4.0;3.0;3.0;4.0;4.0;4.0;16.0;14.0;4.0;5.0;SOTG;16;Diebstahlsicherung
+Zodiac Scorpio;Schiffe;1.0;4.0;4.0;2.0;2.0;4.0;4.0;1.0;10.0;6.0;1.0;8.0;R5;82;

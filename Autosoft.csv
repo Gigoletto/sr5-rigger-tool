@@ -1,0 +1,10 @@
+﻿Name;Kategorie;minimale_Stufe;maximale_Stufe;Quelle;Seite;Erläuterungen
+Nahkampf Autosoft;Autosofts;1.0;6.0;R5;127;Wie Zielerfassung, aber für eine bestimmte Nahkampfwaffe
+Ausweichen Autosoft;Autosofts;1.0;6.0;SR5;269;Diese Autosoft lässt den Autopiloten der Zielverfolgung durch Sensoren entgehen.
+Clearsight Autosoft;Autosofts;1.0;6.0;SR5;269;Steht für die Fertigkeit Wahrnehmung
+Elektronische Kriegsführung Autosoft;Autosofts;1.0;6.0;SR5;269;Steht für die Fertigkeit Elektronische Kriegsführung
+Gruppierung Autosoft;Autosofts;2.0;2.0;R5;127;Eine Signalverteilungs-Autosoft, die es ermöglicht, dass alle Drohnen, auf denen sie läuft, denselben Befehl empfangen können, sodass man nicht jede Drohne einzeln befehligen muss. Die Gruppierungs-Autosoft gilt als Autosoft der Stufe 2
+Manövrieren Autosoft;Autosofts;1.0;6.0;SR5;269;Wie die entsprechende Fahrzeugfertigkeit, allerdings auf ein Modell beschränkt.
+Smartsoft;Autosofts;3.0;3.0;R5;127;"Dieselbe Smartlink-Software, wie sie in Cyberaugen oder Bildsystemen läuft; hier ist sie in die Sensoren eines Fahrzeugs oder einer Drohne integriert. Die Smartsoft ist eine Autosoft der Stufe 3 und erlaubt den Einsatz von Smartguns"
+Stealth Autosoft;Autosofts;1.0;6.0;SR5;270;Diese Autosoft hilft einer Drohne, sich so unauffällig wie möglich zu benehmen, und lässt sich mit der Fertigkeit Schleichen vergleichen.
+Zielerfassung Autosoft;Autosofts;1.0;6.0;SR5;270;Wie die Fertigkeit Geschütze, aber auf ein bestimmtes Waffenmodell beschränkt. Wenn man eine Ingram Smartgun montiert, braucht man Zielerfassung [Ingram Smartgun]. Wenn eine Drohne als Slave einer Riggerkonsole eingerichtet ist und keine eigenen Programme laufen lässt, nutzt sie die Programme der Konsole. Dadurch kann sie unter Umständen auch mehr Programme nutzen, als sie eigentlich Programmplätze hätte
